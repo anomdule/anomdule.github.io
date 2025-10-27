@@ -15,7 +15,7 @@ author_profile: true
 
 ## 🧩 Under Review
 
-**J. Lou**, **A. Dule**, **X. Shen**, **N. Hultman**  
+J. Lou, **A. Dule**, X. Shen, N. Hultman  
 *“Advancing Equity in EV Infrastructure: Assessing Charging Accessibility Under the National Electric Vehicle Infrastructure (NEVI) Program.”*  
 *(Revise & Resubmit, Journal: Energy Research & Social Science)*  
 
@@ -23,11 +23,11 @@ author_profile: true
 
 ## 📑 Publications (Journal Articles / Policy Briefs)
 
-**J. Behrendt**, **S. Smith**, **S. Yu**, **S. Chen**, **H. Zhang**, **M. Zhu**, **J. Williams**, **X. Cheng**, **A. Dule**, **W. Li**, **R. Cui**, **N. Hultman**  
+J. Behrendt, S. Smith, S. Yu, S. Chen, H. Zhang,M. Zhu, J. Williams, X. Cheng, **A. Dule**, W. Li, R. Cui, N. Hultman  
 *“United States and China Anthropogenic Methane Emissions: A Review of Uncertainties and Collaborative Opportunities.”*  
 **Earth’s Future**, 13, e2024EF005298.  
 
-**J. Behrendt**, **X. Cheng**, **S. Chen**, **A. Dule**, **H. Zhang**, **S.J. Smith**, **M. Zhu**, **R. Cui**, **C. Mei**, **L. Chen**, **M. Li**, **S. Fu**, **N. Hultman**  
+J. Behrendt, X. Cheng, S. Chen, **A. Dule**, H. Zhang, S.J. Smith, M. Zhu, R. Cui, C. Mei, L. Chen, M. Li, S. Fu, N. Hultman  
 *“Understanding Coal Mine Methane Sources and Mitigation Opportunities in Shanxi Province.”*  
 **Center for Global Sustainability**, University of Maryland. *(15 pp.)*  
 
@@ -42,7 +42,7 @@ author_profile: true
 
 ## 🧮 Database Creation
 
-**M. Zhu**, **G. Hu**, **X. Cheng**, **S. Sahu**, **Y. Li**, **S. Vaddeboina**, **A. Sharma**, **I. Kalra**, **D. Thakkar**, **A. Dule**, **Z. Lu**, **H. Singh**, **R. Cui**  
+M. Zhu, G. Hu, X. Cheng, S. Sahu, Y. Li, S. Vaddeboina, A. Sharma, I. Kalra, D. Thakkar, **A. Dule**, Z. Lu, H. Singh, R. Cui  
 *“Global Methane Abatement Solutions Tracker (G-MAST).”*  
 **Center for Global Sustainability**, University of Maryland, 2025.  
 
