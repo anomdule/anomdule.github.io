@@ -24,9 +24,9 @@ repository               : "anomdule/anomdule.github.io"
 author:
   # Biographic information
   avatar           : "anom_dp_2.png"
-  name             : "Anom"
-  pronouns         : "he/ his"  
-  bio              : "Econ/ Public Policy Researcher"
+  name             : "Econ/ Public Policy Researcher"
+  pronouns         : #"he/ his"  
+  bio              : #"Econ/ Public Policy Researcher"
   location         : "College Park, MD, USA"
   employer         : >
                      Cntr for Global Sustain., UMD
@@ -49,7 +49,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/anomdule"
+  github           :  "https://github.com/anomdule"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
