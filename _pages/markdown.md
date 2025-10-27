@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Fun"
+title: "Other Interests"
 permalink: /free-time/
 author_profile: true
 ---
