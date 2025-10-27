@@ -13,5 +13,5 @@ Alongside my professional work, I lead an independent research project **“The 
 
 I primarily work in **Stata**, **Python**, **R**, and **QGIS**, with a strong focus on reproducible and data-intensive workflows.
 
-📄 [**View my CV →**](/files/Anom_AMD_CV.pdf){:target="_blank"}
+📄 [**View my CV →**](/files/Anom_AMD_CV_2.pdf){:target="_blank"}
 
