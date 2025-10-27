@@ -28,7 +28,9 @@ author:
   pronouns         : # example: "he/ his"  
   bio              : "Applied Econ/ Public Policy"
   location         : "College Park, MD, USA"
-  employer         : "Center for Global Sustainability, University of Maryland"
+  employer         : >
+                     Center for Global Sustainability,
+                     University of Maryland
   # uri              : # URL
   email            : "anomdule@gmail.com/ anomdule@umd.edu" 
 
@@ -41,7 +43,7 @@ author:
   # orcid            : "https://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # "https://www.researchgate.net/profile/Anom-Ashok-Dule"
+  researchgate     : "https://www.researchgate.net/profile/Anom-Ashok-Dule"
   # scopus           : # URL
 
   # Repositories and software development
@@ -63,7 +65,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/anom-ashok-meena/"
+  linkedin         : "https://www.linkedin.com/in/anom-ashok-meena/"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
