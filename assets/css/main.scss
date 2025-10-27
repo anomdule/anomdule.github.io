@@ -41,10 +41,5 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
    
-   .author__avatar img {
-  border-radius: 0 !important;  /* makes it square instead of round */
-  width: 160px !important;      /* adjust size if you want smaller/larger */
-  height: 160px !important;
-  object-fit: cover;            /* keeps good cropping */
-}
+
 ;
