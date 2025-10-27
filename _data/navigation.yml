@@ -10,7 +10,8 @@
 main:
   - title: "Publications"
     url: /publications/
-
-    
+main:
+  - title: "Publications"
+    url: /publications/
   - title: "Other Interests"
-    url: /markdown/
+    url: /free-time/
