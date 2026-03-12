@@ -15,7 +15,7 @@ author_profile: true
 
 ## 📑 Publications (Journal Articles / Policy Briefs)
 
-Jiehong Lou, **Anom Ashok Dule**, Xingchi Shen, Nathan Hultman,
+Jiehong Lou, **Anom Ashok Dule**, Xingchi Shen, Nathan Hultman.
 Advancing equity in electric vehicle infrastructure: Assessing charging accessibility under the National Electric Vehicle Infrastructure (NEVI) program. 
 **Energy Research & Social Science**, *Volume 134, 2026, 104620, ISSN 2214-6296, https://doi.org/10.1016/j.erss.2026.104620.* 
 
