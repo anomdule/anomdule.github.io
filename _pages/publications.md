@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 📄 Independent Research (Working Paper)
+## 📄 Independent Research (Work in Progress)
 
 **A. Dule**, *“The Effect of Power Outages on Crime”*  
 *(Working Paper)*  
@@ -13,15 +13,11 @@ author_profile: true
 
 ---
 
-## 🧩 Under Review
-
-J. Lou, **A. Dule**, X. Shen, N. Hultman  
-*“Advancing Equity in EV Infrastructure: Assessing Charging Accessibility Under the National Electric Vehicle Infrastructure (NEVI) Program.”*  
-*(Revise & Resubmit, Journal: Energy Research & Social Science)*  
-
----
-
 ## 📑 Publications (Journal Articles / Policy Briefs)
+
+Jiehong Lou, **Anom Ashok Dule**, Xingchi Shen, Nathan Hultman,
+Advancing equity in electric vehicle infrastructure: Assessing charging accessibility under the National Electric Vehicle Infrastructure (NEVI) program. 
+**Energy Research & Social Science**, *Volume 134, 2026, 104620, ISSN 2214-6296, https://doi.org/10.1016/j.erss.2026.104620.* *https://www.sciencedirect.com/science/article/pii/S2214629626000915*
 
 J. Behrendt, S. Smith, S. Yu, S. Chen, H. Zhang,M. Zhu, J. Williams, X. Cheng, **A. Dule**, W. Li, R. Cui, N. Hultman  
 *“United States and China Anthropogenic Methane Emissions: A Review of Uncertainties and Collaborative Opportunities.”*  
