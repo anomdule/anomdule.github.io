@@ -1,6 +1,6 @@
 ## Introduction
 
-My journey to a Ph.D. in Applied Economics at Penn State University was built on several years of research experience before beginning doctoral studies.
+This page documents my journey to a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University. I hope it also serves as a useful resource for future applicants, especially those coming from non-traditional backgrounds.
 
 After completing my M.S. in Applied Economics at the University of Maryland, I worked as a Research Assistant at the Center for Global Sustainability for over three years, collaborating with leading researchers on projects in energy, transportation, and climate policy. There, I developed skills in econometrics, data analysis, geospatial methods, literature review, scientific writing, and research communication.
 
@@ -8,9 +8,7 @@ I also worked as a Research Analyst Consultant to a Senior Economist at the Worl
 
 During this time, I co-authored several research studies, including a second-authored journal article with Jiehong Lou (*under revise-and-resubmit at* **Environmental Research & Social Science** *during my Ph.D. application cycle*).
 
-This page documents my preparation for doctoral study-
-
-## Building My Ph.D. Application Beyond Research Experience
+## My Ph.D. Application Beyond Research Experience
 
 ### Academic Preparation
 
@@ -20,6 +18,10 @@ Dr. Babasaheb Ambedkar Technological University
 Coursework included: Calculus, Linear Algebra, Differential Equations.
 
 I did not have formal coursework in Real Analysis. Contrary to popular belief, that wasn't the end of the world for me. 😄
+
+---
+
+Following my engineering degree, I took 3 years away from formal education due to personal and family circumstances. During that time, I continued learning independently through MITx courses in probability, statistics, and microeconomics, which helped me build a stronger quantitative foundation before pursuing my M.S. in Applied Economics.
 
 ---
 
