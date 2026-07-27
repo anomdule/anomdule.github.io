@@ -172,7 +172,7 @@ Following my engineering degree, I took **three years away from formal education
 <details>
 <summary> 🧪 Secret Sauce</summary>
 <div class="pd-details-body">
-<p>No successful Ph.D. application is built alone. If my application had a secret sauce, it was the <b>weekly mentorship</b> I received from an economist working at <b>Amazon</b> (at the time... and maybe still there today). From my solo-authored research paper and statement of purpose to mock interviews, he helped me build the strongest application possible. I owe a great deal of my application's success to his guidance and _secret sauce_, which taught me not only how to build a stronger application but also how to think more critically as a researcher.</p>
+<p>No successful Ph.D. application is built alone. If my application had a secret sauce, it was the weekly mentorship I received from an economist working at Amazon (at the time... and maybe still there today). From my solo-authored research paper to mock interviews, he helped me build the strongest application possible. That mentorship taught me not only how to build a stronger application, but also how to think more critically as a researcher.</p>
 <p><i>P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.</i></p>
 </div>
 </details>
