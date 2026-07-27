@@ -1,3 +1,9 @@
+---
+title: "Pre-Doctoral Journey"
+permalink: /predoc-journey/
+author_profile: true
+---
+
 ## Introduction
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
