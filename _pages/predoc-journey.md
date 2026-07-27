@@ -8,7 +8,7 @@ author_profile: true
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
-During my application cycle, I received **eight funded Ph.D. offers**. Among them were offers from **Penn State University (EEFE)**, the **National University of Singapore (Economics)**, the **University of Georgia (Agricultural & Applied Economics)**, the **University of Maryland (Public Policy)**, and **Indiana University Bloomington (Public Affairs)**.
+During my application cycle, I received **funded Ph.D. offers**. Among them were offers from **Penn State University (EEFE)**, the **National University of Singapore (Economics)**, the **University of Georgia (Agricultural & Applied Economics)**, the **University of Maryland (Public Policy)**, and **Indiana University Bloomington (Public Affairs)**.
 
 I hope this page serves as a useful resource for future applicants, especially those coming from non-traditional backgrounds. There is no single path to entering a Ph.D.—this was mine.
 
@@ -82,31 +82,64 @@ Following my engineering degree, I took **three years away from formal education
 | Category | Count |
 |-----------|------:|
 | Applications Submitted | **37** |
-| Interviews | **7** |
-| Funded Ph.D. Offers | **8** |
-| Waitlists | **2** |
+| Funded Ph.D. Offers | **7** |
 
-### Funded Ph.D. Offers
+---
 
-| University | Programme | Outcome |
-|------------|-----------|---------|
-| Penn State University | Energy, Environmental & Food Economics | ✅ Accepted |
-| National University of Singapore | Economics | ✅ Declined |
-| University of Georgia | Agricultural & Applied Economics | ✅ Declined |
-| University of Maryland | Public Policy | ✅ Declined |
-| Indiana University Bloomington | Public Affairs | ✅ Declined |
-| University of New Mexico | Economics | ✅ Declined |
-| Washington State University | Economics | ✅ Declined |
-| University of Connecticut | Agricultural & Resource Economics | ✅ Declined |
+### Understanding the Admissions Process
+
+One thing I learned during this application cycle is that Ph.D. admissions are rarely a simple **accept/reject** process. Depending on the department, an application may go through several stages, including faculty review, interviews, funding decisions, and final offers.
+
+The table below summarizes the progression of my applications.
+
+| University | Programme | Application Journey |
+|------------|-----------|---------------------|
+| **Penn State University** | Energy, Environmental & Food Economics | Application → 1st Interview → 2nd Interview → ✅ Funded Offer → **Accepted** |
+| **National University of Singapore** | Economics | Application → Interview → ✅ Funded Offer → Declined |
+| **University of California, Santa Cruz** | Economics | Application → Interview → Oral Offer → Declined (Penn State was the best fit) |
+| **University of Maryland** | Public Policy | Application → ✅ Funded Offer → Declined |
+| **University of Georgia** | Agricultural & Applied Economics | Application → Admit but Funding Pending → ✅ Funded Offer → Declined |
+| **Indiana University Bloomington** | Public Affairs | Application → Interview → ✅ Funded Offer → Declined |
+| **University of New Mexico** | Economics | Application → ✅ Funded Offer → Declined |
+| **Washington State University** | Economics | Application → ✅ Funded Offer → Declined |
+| **University of Connecticut** | Agricultural & Resource Economics | Application → Admit |Funding Waitlist → Declined (Not Pursued) |
+
+---
 
 ### Other Outcomes
 
-- **Interview:** University of California, Santa Cruz (Economics)
-- **Interview:** University of Florida (Food & Resource Economics)
-- **Waitlist:** University of Calgary
-- **Waitlist:** Georgia State University
-- **No Final Decision:** NC State University, Virginia Tech
+| University | Outcome |
+|------------|---------|
+| University of Florida | Interview → Not admitted (advisor mismatch) |
+| University of Calgary | Funding Waitlist- Not pursued |
+| Georgia State University | Waitlist- No health insurance provided btw |
+| NC State University | No final decision (radio silence) |
+| Virginia Tech | No final decision (radio silence) |
+| Simon Fraser University | No final decision |
+| Several European universities | No final decision (I did not follow up after receiving offers elsewhere.) |
 
+---
+
+### Rejections
+
+Admissions are highly competitive, and many excellent programmes did not work out. Some of these included:
+
+- Stanford University (ESS)
+- Duke University (UPEP)
+- Carnegie Mellon University (Public Policy)
+- Columbia University (Sustainable Development)
+- University of California, San Diego (Economics)
+- University of Texas at Austin (Economics)
+- Michigan State University (Economics)
+- and several others Ag Econ programs at UCB, UIUC, UW Madison.
+
+---
+
+### Interviews
+
+One of the most enjoyable parts of the application cycle was the interviews.
+
+Most of them felt much more like research conversations than formal interviews. Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions. Looking back, I think thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
 ---
 
 ## Why Penn State?
