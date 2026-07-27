@@ -184,6 +184,7 @@ Following my engineering degree, I took **three years away from formal education
 </details>
 
 ---
+
 ### 📬 Reaching Out to Faculty
 
 I reached out to only a handful of faculty members at **Carnegie Mellon, Duke, and the University of Maryland**, some of whom I had met during **World Bank seminars**. Although I was not admitted to those programmes, the conversations were extremely valuable. I received thoughtful feedback on my research interests and even my solo-authored research paper.
