@@ -73,16 +73,24 @@ Following my engineering degree, I took **three years away from formal education
 - **🌶️ Secret Sauce:** No successful Ph.D. application is built alone. If my application had a secret sauce, it was the **weekly mentorship** I received from an economist working at **Amazon** (at the time... and maybe still there today). From my solo-authored research paper and Statement of Purpose to CV reviews, school selection, and mock interviews, he invested an incredible amount of time helping me build the strongest application possible. I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.  
   *P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.*
 
+
+
 ---
 
 ## Outcome
 
 ### Application Statistics
 
+Of the **37** Ph.D. applications I submitted, **34** reached a clear admissions outcome. Three applications remained unresolved due to delayed or no final decisions. Among those 34, **12** resulted in positive outcomes, with **7** ultimately converting into fully funded Ph.D. offers.
+
 | Category | Count |
 |-----------|------:|
 | Applications Submitted | **37** |
-| Funded Ph.D. Offers | **7** |
+| Applications with Final Outcomes | **34** |
+| Positive Outcomes* | **12** |
+| Fully Funded Ph.D. Offers | **7** |
+
+*Positive outcomes include funded offers, admissions without funding, interviews, oral offers, and waitlists.
 
 ---
 
@@ -95,43 +103,22 @@ The table below summarizes the progression of my applications.
 | University | Programme | Application Journey |
 |------------|-----------|---------------------|
 | **Penn State University** | Energy, Environmental & Food Economics | Application → 1st Interview → 2nd Interview → ✅ Funded Offer → **Accepted** |
-| **National University of Singapore** | Economics | Application → Interview → ✅ Funded Offer → Declined |
-| **University of California, Santa Cruz** | Economics | Application → Interview → Oral Offer → Declined (Penn State was the best fit) |
-| **University of Maryland** | Public Policy | Application → ✅ Funded Offer → Declined |
-| **University of Georgia** | Agricultural & Applied Economics | Application → Admit but Funding Pending → ✅ Funded Offer → Declined |
-| **Indiana University Bloomington** | Public Affairs | Application → Interview → ✅ Funded Offer → Declined |
-| **University of New Mexico** | Economics | Application → ✅ Funded Offer → Declined |
-| **Washington State University** | Economics | Application → ✅ Funded Offer → Declined |
-| **University of Connecticut** | Agricultural & Resource Economics | Application → Admit→ Funding Waitlist → Declined (Not Pursued) |
+| **National University of Singapore** | Economics | Application → Interview → ✅ Funded Offer → Declined (Chose Penn State) |
+| **University of California, Santa Cruz** | Economics | Application → Interview → Oral Offer → Declined (Penn State was the better research fit) |
+| **University of Maryland** | Public Policy | Application → ✅ Funded Offer → Declined (Chose Penn State) |
+| **University of Georgia** | Agricultural & Applied Economics | Application → Admission → Funding Pending → ✅ Funded Offer → Declined (Chose Penn State) |
+| **Indiana University Bloomington** | Public Affairs | Application → Interview → ✅ Funded Offer → Declined (Chose Penn State) |
+| **University of New Mexico** | Economics | Application → ✅ Funded Offer → Declined (Chose Penn State) |
+| **Washington State University** | Economics | Application → ✅ Funded Offer → Declined (Chose Penn State) |
+| **University of Connecticut** | Agricultural & Resource Economics | Application → Admission → Funding Waitlist → Declined (Not Pursued) |
+| **University of Florida** | Food & Resource Economics | Application → Interview → Not Admitted (Advisor mismatch) |
+| **University of Calgary** | Economics | Application → Funding Waitlist → Not Pursued |
+| **Georgia State University** | Economics | Application → Waitlist → Not Pursued *(No health insurance was a deal-breaker already😅)* |
 
----
+- **No Final Decision or very late beyond april decisons:** NC State University, Virginia Tech, Simon Fraser University (I did not follow up after receiving funded offers elsewhere).--- I lost 3 applications just like that and some $$.
 
-### Other Outcomes
-
-| University | Outcome |
-|------------|---------|
-| University of Florida | Interview → Not admitted (advisor mismatch) |
-| University of Calgary | Funding Waitlist- Not pursued |
-| Georgia State University | Waitlist- No health insurance provided btw |
-| NC State University | No final decision (radio silence) |
-| Virginia Tech | No final decision (radio silence) |
-| Simon Fraser University | No final decision |
-| Several European universities | No final decision (I did not follow up after receiving offers elsewhere.) |
-
----
-
-### Rejections
-
-Admissions are highly competitive, and many excellent programmes did not work out. Some of these included:
-
-- Stanford University (ESS)
-- Duke University (UPEP)
-- Carnegie Mellon University (Public Policy)
-- Columbia University (Sustainable Development)
-- University of California, San Diego (Economics)
-- University of Texas at Austin (Economics)
-- Michigan State University (Economics)
-- and several others Ag Econ programs at UCB, UIUC, UW Madison.
+### 🎓 Rejections: The "Character Development" Section
+Every Ph.D. applicant has a rejection folder. Here's part of mine 😄: Stanford University (ESS), Duke University (UPEP), Carnegie Mellon University (Public Policy), Columbia University (Sustainable Development), Economics programmes at UC San Diego, UT Austin, and Michigan State, and Agricultural Economics programmes at the University of Maryland, UC Berkeley, UIUC, and UW–Madison.
 
 ---
 
