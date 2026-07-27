@@ -96,10 +96,10 @@ I hope this page serves as a useful resource for future applicants, especially t
 
 <div class="pd-widget">
 <div class="pd-stats">
-  <div class="pd-stat"><span class="pd-num" data-target="37">0</span><span class="pd-lbl">Applications sent</span></div>
-  <div class="pd-stat"><span class="pd-num" data-target="34">0</span><span class="pd-lbl">Reached a decision</span></div>
-  <div class="pd-stat"><span class="pd-num" data-target="12">0</span><span class="pd-lbl">Positive outcomes</span></div>
-  <div class="pd-stat"><span class="pd-num" data-target="7">0</span><span class="pd-lbl">Funded offers</span></div>
+  <div class="pd-stat"><span class="pd-num" data-target="37">37</span><span class="pd-lbl">Applications sent</span></div>
+  <div class="pd-stat"><span class="pd-num" data-target="34">34</span><span class="pd-lbl">Reached a decision</span></div>
+  <div class="pd-stat"><span class="pd-num" data-target="12">12</span><span class="pd-lbl">Positive outcomes</span></div>
+  <div class="pd-stat"><span class="pd-num" data-target="7">7</span><span class="pd-lbl">Funded offers</span></div>
 </div>
 </div>
 
@@ -286,49 +286,56 @@ If this page helps even one applicant realise that there is no single blueprint 
 If you're currently preparing your own applications, I wish you the very best. Good luck! 🚀
 
 <script>
-(function(){
-  // animated stat counters
-  var nums = document.querySelectorAll('.pd-num');
-  if ('IntersectionObserver' in window) {
-    var io = new IntersectionObserver(function(entries){
-      entries.forEach(function(entry){
-        if (entry.isIntersecting) {
-          var el = entry.target;
-          var target = parseInt(el.getAttribute('data-target'), 10);
-          var cur = 0;
-          var step = Math.max(1, Math.round(target / 30));
-          (function tick(){
-            cur += step;
-            if (cur >= target) { el.textContent = target; return; }
-            el.textContent = cur;
-            requestAnimationFrame(tick);
-          })();
-          io.unobserve(el);
-        }
-      });
-    }, { threshold: 0.5 });
-    nums.forEach(function(el){ io.observe(el); });
-  }
+function pdInit(){
+  try {
+    // animated stat counters — numbers already show the real value in HTML;
+    // this just animates them up from 0 for a bit of polish. If anything
+    // above fails, the real numbers stay visible regardless.
+    var nums = document.querySelectorAll('.pd-num');
+    nums.forEach(function(el){
+      var target = parseInt(el.getAttribute('data-target'), 10);
+      if (isNaN(target)) return;
+      var cur = 0;
+      el.textContent = '0';
+      var step = Math.max(1, Math.round(target / 30));
+      (function tick(){
+        cur += step;
+        if (cur >= target) { el.textContent = target; return; }
+        el.textContent = cur;
+        requestAnimationFrame(tick);
+      })();
+    });
+  } catch (e) { /* leave static numbers as-is */ }
 
-  // table filters
-  var chips = document.querySelectorAll('.pd-chip');
-  var rows = document.querySelectorAll('#pdTable tr[data-status]');
-  chips.forEach(function(chip){
-    chip.addEventListener('click', function(){
-      chips.forEach(function(c){ c.classList.remove('active'); });
-      chip.classList.add('active');
-      var f = chip.getAttribute('data-filter');
-      rows.forEach(function(row){
-        row.classList.toggle('pd-hide', f !== 'all' && row.getAttribute('data-status') !== f);
+  try {
+    // table filters
+    var chips = document.querySelectorAll('.pd-chip');
+    var rows = document.querySelectorAll('#pdTable tr[data-status]');
+    chips.forEach(function(chip){
+      chip.addEventListener('click', function(){
+        chips.forEach(function(c){ c.classList.remove('active'); });
+        chip.classList.add('active');
+        var f = chip.getAttribute('data-filter');
+        rows.forEach(function(row){
+          row.classList.toggle('pd-hide', f !== 'all' && row.getAttribute('data-status') !== f);
+        });
       });
     });
-  });
+  } catch (e) {}
 
-  // checklist strike-through
-  document.querySelectorAll('#pdChecklist input[type="checkbox"]').forEach(function(box){
-    box.addEventListener('change', function(){
-      box.closest('li').classList.toggle('pd-checked', box.checked);
+  try {
+    // checklist strike-through
+    document.querySelectorAll('#pdChecklist input[type="checkbox"]').forEach(function(box){
+      box.addEventListener('change', function(){
+        box.closest('li').classList.toggle('pd-checked', box.checked);
+      });
     });
-  });
-})();
+  } catch (e) {}
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', pdInit);
+} else {
+  pdInit();
+}
 </script>
