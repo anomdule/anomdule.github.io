@@ -78,7 +78,10 @@ author_profile: true
   .pd-checklist li.pd-checked label{ text-decoration:line-through; color:var(--gh-fg-muted);}
 </style>
 
-## Introduction
+## Welcome to my Pre-Doctoral Journey ## 
+<p align="center">
+<i>Hello • नमस्ते • 你好 • Hola</i>
+</p>
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
@@ -293,6 +296,10 @@ There is no single blueprint for getting into a Ph.D. programme. Build genuine r
 Finally, if you're reading this while preparing your own applications, I wish you the very best. I know how uncertain, stressful, and sometimes overwhelming the process can feel. Trust your journey, keep improving your craft, and remember that one decision does not define your worth or future.
 
 **P.S. Potential Applicants: If you've actually read everything above... first of all, are you okay? 😄 Go grab a cup of tea ☕, coffee ☕, or matcha 🍵—you've earned it! Congratulations, you've officially reached the end. There isn't a hidden Google Drive, secret SOP, interview question bank, or a mythical "Guaranteed Ph.D. Admit" cheat code waiting below. Everything I'm willing to share is already on this page. The rest is left as an exercise for future applicants. 😉 Now close this tab, go work on your own application, and most importantly... find your own *secret sauce*. 🧪**
+
+<p align="center">
+<strong>Thank you • धन्यवाद • 谢谢 • Gracias</strong>
+</p>
 
 <script>
 function pdInit(){
