@@ -183,6 +183,8 @@ Following my engineering degree, I took **three years away from formal education
 </div>
 </details>
 
+</div>
+
 ---
 
 ### 📬 Reaching Out to Faculty
