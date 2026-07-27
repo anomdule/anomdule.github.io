@@ -17,7 +17,7 @@ I hope this page serves as a useful resource for future applicants, especially t
 > - 🎓 **Background:** Chemical Engineering → Applied Economics
 > - 🔬 **Research:** 3+ years @ Center for Global Sustainability + 1 year @ World Bank
 > - 📄 **Research Output:** Solo-authored causal inference paper + multiple co-authored studies
-> - 📨 **Application Cycle:** 37 applications → 8 funded Ph.D. offers
+> - 📨 **Application Cycle:** 37 applications → 7 funded Ph.D. offers
 > - 🏛️ **Final Destination:** Penn State University (EEFE)
 
 ---
@@ -89,6 +89,12 @@ Of the **37** Ph.D. applications I submitted, **34** reached a clear admissions 
 | Applications with Final Outcomes | **34** |
 | Positive Outcomes* | **12** |
 | Fully Funded Ph.D. Offers | **7** |
+
+*Success Rates**
+
+- 🎯 **Positive Outcome Rate:** **35.3%** (12/34)
+- 🎓 **Fully Funded Offer Rate:** **20.6%** (7/34)
+- 🚀 **Conversion Rate (Positive Outcome → Fully Funded Offer):** **58.3%** (7/12)
 
 *Positive outcomes include funded offers, admissions without funding, interviews, oral offers, and waitlists.
 
