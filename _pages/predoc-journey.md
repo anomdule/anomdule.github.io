@@ -219,7 +219,7 @@ The table below summarizes the progression of my applications —
 <tr><th>University</th><th>Programme</th><th>Application Journey</th></tr>
 <tr data-status="offer"><td><b>Penn State University</b></td><td>Energy, Environmental & Food Economics</td><td>Application → 1st Interview → 2nd Interview → ✅ Funded Offer → <b>Accepted</b></td></tr>
 <tr data-status="declined"><td><b>National University of Singapore</b></td><td>Economics</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
-<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was likely, but declined prior (as Penn State was the better research fit)</td></tr>
+<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was highly likely, but declined prior as Penn State was the better fit</td></tr>
 <tr data-status="declined"><td><b>University of Maryland</b></td><td>Public Policy</td><td>Application → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>University of Georgia</b></td><td>Agricultural & Applied Economics</td><td>Application → Admission → Funding Pending → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>Indiana University Bloomington</b></td><td>Public Affairs</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
@@ -256,9 +256,9 @@ The table below summarizes the progression of my applications —
 
 One of the most enjoyable parts of the application cycle was the interviews.
 
-Most of them felt much more like research conversations than formal interviews. Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions.
+Most of them felt much more like research conversations than formal interviews (NUS was exception which asked me matrices and Calculus concepts). Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions.
 
-To prepare, I worked closely with my mentors to brainstorm the kinds of questions faculty might ask based on my research interests, statement of purpose, and CV. Together, we created an interview preparation document with potential questions, discussion points, and concise answers. That document served as a **guide**, not a script.
+To prepare, I brainstormed the kinds of questions faculty might ask based on my research interests, statement of purpose, and CV. I later created an interview preparation document with potential questions, discussion points, and concise answers. That document served as a **guide**, not a script.
 
 When the actual interviews came around, I rarely found myself reciting memorised answers. Instead, the preparation gave me the confidence to think through questions in real time and have genuine research conversations with faculty. Looking back, thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
 
@@ -266,17 +266,15 @@ When the actual interviews came around, I rarely found myself reciting memorised
 
 ## Why Penn State?
 
-After considering all of my offers, I ultimately chose **Penn State University's Energy, Environmental & Food Economics (EEFE)** program. My decision was primarily driven by **research fit**, faculty interests, long-term career goals, funding, and the opportunity to work in energy, environmental, and applied economics within an interdisciplinary department.
+After considering all of my offers, I ultimately chose **Penn State University's Energy, Environmental & Food Economics (EEFE)** program. My decision was primarily driven by research fit, primary advisor match, faculty interests, long-term career goals, and funding.
 
 ---
 
 ## Lessons Learned
 
-- 🔬 **Research experience mattered far more than I initially expected.** It became the strongest component of my application and shaped almost every interview.
+- 🔬 **Research experience and writing sample mattered far more than I initially expected.** My research experience became the strongest part of my application, while my co-authored studies and six-page solo research paper carried much of my Statement of Purpose and featured and pitched for in almost every interview. Looking back, those mattered to me far more than a slightly higher GRE score.
 
-- 📄 **A strong research writing sample can open more doors than a slightly higher GRE score.** My six-page paper ended up carrying much of my application.
-
-- ✉️ **Great recommendation letters come from people who genuinely know your work—not necessarily the most famous names.**
+- ✉️ **LOR** Great recommendation letters come from people who genuinely know your work— not necessarily the most famous names.
 
 - 📄 **Mentorship is invaluable.** Constructive feedback from mentors significantly improved my research, statement of purpose, interviews, and overall application package.
 
@@ -284,8 +282,6 @@ After considering all of my offers, I ultimately chose **Penn State University's
 
 - 📚 - 🎯 **Apply broadly, but apply strategically.** In my experience, the strongest applications were those where my past research, current interests, and future research agenda formed a coherent story that aligned well with the faculty and department. This is certainly subjective, but I found that staying true to my research trajectory was more valuable than trying to anticipate what admissions committees might want to see.
   
-- 💬 **Don't hesitate to seek feedback.** Reaching out to faculty after admissions decisions helped me better understand the process and reminded me that many excellent applicants are not admitted simply because of limited positions, funding, or faculty availability.
-
 - 🚀 **Most importantly, there is no single path into a Ph.D.** Every applicant's journey is different, and success can come through many routes.
 
 ---
