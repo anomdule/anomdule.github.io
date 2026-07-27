@@ -18,6 +18,8 @@ During these years, I collaborated on several research projects, including a sec
 
 ## My Ph.D. Application Beyond Research Experience
 
+---
+
 ### Academic Preparation
 
 **B.Tech. Chemical Engineering**
@@ -41,7 +43,8 @@ Relevant Core: Microeconomics, Macroeconomics, Econometrics.
 Relevant Field: Environmental Economics, Development Economics, Program Evaluation, Game Theory.
 
 ---
-### Other Components of My Application
+
+### Other Important Components of My Application
 
 - **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+ 😭, including my friends at Cornell and Vtech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165 but I touched below scores. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
 
