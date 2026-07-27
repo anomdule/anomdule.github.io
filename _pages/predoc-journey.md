@@ -2,15 +2,15 @@
 
 My journey to a Ph.D. in Applied Economics at Penn State University was built on several years of research experience before beginning doctoral studies.
 
-Following my M.S. in Applied Economics at the University of Maryland, I worked as a Research Assistant at the Center for Global Sustainability for over three years. During this time, I had the opportunity to work closely with top researchers including Jiehong Lou, Mengye Zhu, and Jenna Behrendt on projects spanning energy, transportation, and climate policy. These experiences strengthened my skills in data analysis, econometrics, geospatial analysis, literature review, scientific writing, and communicating research findings.
+After completing my M.S. in Applied Economics at the University of Maryland, I worked as a Research Assistant at the Center for Global Sustainability for over three years, collaborating with leading researchers on projects in energy, transportation, and climate policy. There, I developed skills in econometrics, data analysis, geospatial methods, literature review, scientific writing, and research communication.
 
-I also worked as a Research Analyst Consultant to a Senior Economist at the World Bank for one year, supporting economic research related to agriculture in Sub-Saharan Africa. This experience further developed my critical thinking, empirical research, and quantitative analysis skills while exposing me to policy-oriented research in an international setting.
+I also worked as a Research Analyst Consultant to a Senior Economist at the World Bank for one year, contributing to research on agriculture in Sub-Saharan Africa and further strengthening my empirical research, quantitative analysis, and policy evaluation skills.
 
-Throughout these experiences, I collaborated on several research projects, including a second-authored paper with Jiehong Lou published in *Environmental Research & Social Science (R&R at time of application)*.
+During this time, I co-authored several research studies, including a second-authored journal article with Jiehong Lou (*under revise-and-resubmit at* **Environmental Research & Social Science** *during my Ph.D. application cycle*).
 
 This page documents my preparation for doctoral study-
 
-## Building My Ph.D. Application
+## Building My Ph.D. Application Beyond Research Experience
 
 ### Academic Preparation
 
@@ -19,7 +19,7 @@ Dr. Babasaheb Ambedkar Technological University
 
 Coursework included: Calculus, Linear Algebra, Differential Equations.
 
-I did not have formal coursework in Real Analysis. Contrary to popular belief, that wasn't the end of the world. 😄
+I did not have formal coursework in Real Analysis. Contrary to popular belief, that wasn't the end of the world for me. 😄
 
 ---
 
@@ -30,17 +30,12 @@ Relevant Core: Microeconomics, Macroeconomics, Econometrics.
 
 Relevant Field: Environmental Economics, Development Economics, Program Evaluation, Game Theory.
 
-## Research Experience
-
-### Center for Global Sustainability (3+ years)
----
-### World Bank (1 year)
 
 ## Other Components of My Application
 
 - **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+ 😭, even my friends at Cornell and Vtech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165 but I touched below scores. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
 
-- **Research Writing Sample:** 📄💻 One sole-authored empirical research paper. It was only six pages long, but it represented nearly **6–7 months** of work ⏳, plus about **10 pages of supplementary material** 📑. Somehow those six pages became the MVP of my application—they carried my Statement of Purpose, featured in almost every interview 🎤, and probably worked harder than I did. 😂
+- **Research Writing Sample:** 📄💻 One solo-authored empirical research paper using causal inference methods. It was only six pages long, but it represented nearly 6–7 months of work ⏳, plus about 10 pages of supplementary material 📑. Those six pages ended up doing an incredible amount of heavy lifting—they came up in almost every interview 🎤 and probably had a stronger social life than I did. 😂
 
 - **Recommendation Letters:** ✉️
   - 👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the Center for Global Sustainability and the World Bank, depending on the PhD program in Policy or Economics).
