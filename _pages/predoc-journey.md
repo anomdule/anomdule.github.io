@@ -18,7 +18,7 @@ Alongside this, I worked for one year as a Research Analyst Consultant to a Seni
 
 During these years, I collaborated on several research projects, including a second-authored journal article with Jiehong Lou (*was under revise-and-resubmit at* **Environmental Research & Social Science** during my Ph.D. application cycle).
 
-## My Ph.D. Application Beyond Research Experience
+## Beyond Research Experience
 
 ---
 
