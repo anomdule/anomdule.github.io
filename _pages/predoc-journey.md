@@ -102,7 +102,7 @@ The table below summarizes the progression of my applications.
 | **Indiana University Bloomington** | Public Affairs | Application → Interview → ✅ Funded Offer → Declined |
 | **University of New Mexico** | Economics | Application → ✅ Funded Offer → Declined |
 | **Washington State University** | Economics | Application → ✅ Funded Offer → Declined |
-| **University of Connecticut** | Agricultural & Resource Economics | Application → Admit |Funding Waitlist → Declined (Not Pursued) |
+| **University of Connecticut** | Agricultural & Resource Economics | Application → Admit→ Funding Waitlist → Declined (Not Pursued) |
 
 ---
 
@@ -138,8 +138,8 @@ Admissions are highly competitive, and many excellent programmes did not work ou
 ### Interviews
 
 One of the most enjoyable parts of the application cycle was the interviews.
-
 Most of them felt much more like research conversations than formal interviews. Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions. Looking back, I think thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
+
 ---
 
 ## Why Penn State?
@@ -155,7 +155,7 @@ After considering all of my offers, I ultimately chose **Penn State University's
 - Great recommendation letters come from people who genuinely know your work—not necessarily the most famous names.
 - Mentorship is invaluable.
 - Apply broadly, but apply strategically.
-- Most importantly, **there is no single path into a Ph.D.**
+- Most importantly, there is no single path into a Ph.D.
 
 ---
 
