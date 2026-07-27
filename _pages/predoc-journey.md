@@ -254,19 +254,17 @@ The table below summarizes the progression of my applications —
 
 ### Interviews
 
-One of the most enjoyable parts of the application cycle was the interviews.
+One of the most enjoyable parts of my application cycle was the interviews. Most felt more like research conversations than formal interviews (NUS was the exception—it included questions on matrices and calculus 🤯).
 
-Most of them felt much more like research conversations than formal interviews (NUS was exception which asked me matrices and Calculus concepts). Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions.
+To prepare, I brainstormed potential questions based on my research, Statement of Purpose, and CV, and compiled them into an interview preparation document. It served as a guide, not a script.
 
-To prepare, I brainstormed the kinds of questions faculty might ask based on my research interests, statement of purpose, and CV. I later created an interview preparation document with potential questions, discussion points, and concise answers. That document served as a **guide**, not a script.
-
-When the actual interviews came around, I rarely found myself reciting memorised answers. Instead, the preparation gave me the confidence to think through questions in real time and have genuine research conversations with faculty. Looking back, thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
+In the end, the interviews were less about memorised answers and more about discussing research ideas and demonstrating genuine interest. Looking back, a deep understanding of my research, writing sample, and prior projects mattered far more than rehearsed responses.
 
 ---
 
 ## Why Penn State?
 
-After considering all of my offers, I ultimately chose **Penn State University's Energy, Environmental & Food Economics (EEFE)** program. My decision was primarily driven by research fit, primary advisor match, faculty interests, long-term career goals, and funding.
+After considering all of my offers, I ultimately chose **Penn State University's Energy, Environmental & Food Economics (EEFE)** program. My decision was primarily driven by research fit, primary advisor match, faculty interests, location, long-term career goals, and funding.
 
 ---
 
