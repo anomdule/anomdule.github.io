@@ -62,7 +62,7 @@ Following my engineering degree, I took **three years away from formal education
 
 ### Other Important Components of My Application
 
-- **📚 GRE Quantitative:** **160** 😄 *(Around the 50th percentile at the time... yep, not exactly the score Reddit wanted me to have. Everywhere I looked people seemed to be scoring **165+**, including several of my friends at Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE **four more times**. Still no 165. 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱)*
+- **📚 GRE Quantitative:** **160** 😄 *(Around the 50th percentile at the time... yep, not exactly the score Reddit wanted me to have. Everywhere I looked people seemed to be scoring **165+**, including several of my friends at Maryland, Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE **four more times**. Still no 165. 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱)*
 
 - **📄 Research Writing Sample:** One **solo-authored empirical research paper** using causal inference methods. It was only **six pages long**, but it represented nearly **6–7 months** of work ⏳, plus about **10 pages of supplementary material** 📑. Those six pages ended up doing an incredible amount of heavy lifting—they came up in almost every interview 🎤 and probably had a stronger social life than I did. 😂
 
