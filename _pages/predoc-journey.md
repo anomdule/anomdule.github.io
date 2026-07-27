@@ -245,7 +245,7 @@ The table below summarizes the progression of my applications —
 <details>
 <summary>No Final Decision or very late beyond april decisons</summary>
 <div class="pd-details-body">
-<p>ENC State University, Virginia Tech, Simon Fraser University (I did not follow up after receiving funded offers elsewhere).--- I lost 3 applications just like that and some $$.</p>
+<p>NC State University, Virginia Tech, Simon Fraser University (I did not follow up after receiving funded offers elsewhere).--- I lost 3 applications just like that and therefore some $$.</p>
 </div>
 </details>
 </div>
