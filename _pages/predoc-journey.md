@@ -163,8 +163,8 @@ Following my engineering degree, I took **three years away from formal education
 <summary>✉️ Recommendation Letters</summary>
 <div class="pd-details-body">
 <ul>
-<li>👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the <b>Center for Global Sustainability</b> and the <b>World Bank</b>, depending on whether the program was in Econ/ Ag Econ/ Public Policy).</li>
-<li>🎓 One academic recommendation from <b>instructors</b> in the University of Maryland's Applied Economics program. <i>(Yes—instructors, not professors! 😄 Great recommendation letters come from people who genuinely know your work, not necessarily the fanciest title.)</i> 🌟</li>
+<li>👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the <b>Center for Global Sustainability</b> and the <b>World Bank</b>, depending on whether the program was in Econ/ Ag Econ/ Public Policy). Great recommendation letters come from people who genuinely know your work, not necessarily the fanciest title.</li>
+<li>🎓 One academic recommendation from faculty instructors in the University of Maryland's Applied Economics program🌟</li>
 </ul>
 </div>
 </details>
