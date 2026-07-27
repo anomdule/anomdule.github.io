@@ -19,11 +19,11 @@ Coursework included: Calculus, Linear Algebra, Differential Equations.
 
 I did not have formal coursework in Real Analysis. Contrary to popular belief, that wasn't the end of the world for me. 😄
 
----
+--
 
 Following my engineering degree, I took 3 years away from formal education due to personal and family circumstances. During that time, I continued learning independently through MITx courses in probability, statistics, and microeconomics, which helped me build a stronger quantitative foundation before pursuing my M.S. in Applied Economics.
 
----
+--
 
 **M.S. Applied Economics**
 University of Maryland
