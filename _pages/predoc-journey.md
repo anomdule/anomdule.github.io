@@ -6,7 +6,7 @@ I hope it also serves as a useful resource for future applicants, especially tho
 
 ---
 
-## Research Before the Ph.D.
+## Research Before the Ph.D. Applications
 
 After completing my M.S. in Applied Economics at the University of Maryland, I worked as a Research Assistant at the Center for Global Sustainability for over three years. Although my position was not formally labelled a pre-doctoral, it functioned much like one: I worked closely with three faculty on research projects, developed independent research skills, and gained extensive experience in empirical economic research.
 
