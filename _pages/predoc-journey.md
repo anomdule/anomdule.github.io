@@ -1,5 +1,5 @@
 ---
-title: "Pre-Doctoral Journey"
+title: "Welcome to my Pre-Doctoral Journey"
 permalink: /predoc-journey/
 author_profile: true
 ---
@@ -78,7 +78,7 @@ author_profile: true
   .pd-checklist li.pd-checked label{ text-decoration:line-through; color:var(--gh-fg-muted);}
 </style>
 
-## Welcome to my Pre-Doctoral Journey ## 
+
 <p align="center">
 <i>Hello • नमस्ते • 你好 • Hola</i>
 </p>
