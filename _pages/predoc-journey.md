@@ -2,6 +2,8 @@
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
+During my application cycle, I received eight funded Ph.D. offers. Among them were offers from Penn State University (EEFE), the National University of Singapore (Economics), the University of Georgia (Agricultural & Applied Economics), University of Maryland (Public Policy) and Indiana University Bloomington (Public Affairs).
+
 I hope it also serves as a useful resource for future applicants, especially those coming from non-traditional backgrounds. There is no single path to entering a Ph.D. and this was mine.
 
 ---
