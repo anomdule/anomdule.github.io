@@ -94,7 +94,7 @@ I hope this page serves as a useful resource for future applicants, especially t
 
 > ### 📍 At a Glance
 >
-> - 🎓 **Background:** B.Tech. Chemical Engineering → M.S. Applied Economics
+> - 🎓 **Background:** B.Tech. Chemical Engineering and M.S. Applied Economics
 > - 🔬 **Research:** 3+ years @ Center for Global Sustainability + 1 year @ World Bank
 > - 📄 **Research Output:** Multiple co-authored journal articles + one solo research writing sample
 > - 📨 **Application Cycle:** 37 applications → 7 funded Ph.D. offers (More details in the Application Statistics section)
@@ -225,7 +225,7 @@ The table below summarizes the progression of my applications —
 <tr><th>University</th><th>Programme</th><th>Application Journey</th></tr>
 <tr data-status="offer"><td><b>Penn State University</b></td><td>Energy, Environmental & Food Economics</td><td>Application → 1st Interview → 2nd Interview → ✅ Funded Offer → <b>Accepted</b></td></tr>
 <tr data-status="declined"><td><b>National University of Singapore</b></td><td>Economics</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
-<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was highly likely, but declined prior as Penn State was the better fit</td></tr>
+<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Positive email follow-up from department → Withdrew before formal offer </td></tr>
 <tr data-status="declined"><td><b>University of Maryland</b></td><td>Public Policy</td><td>Application → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>University of Georgia</b></td><td>Agricultural & Applied Economics</td><td>Application → Admission → Funding Pending → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>Indiana University Bloomington</b></td><td>Public Affairs</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
