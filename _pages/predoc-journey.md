@@ -46,7 +46,7 @@ Relevant Field: Environmental Economics, Development Economics, Program Evaluati
 
 ### Other Important Components of My Application
 
-- **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+ 😭, including my friends at Cornell and VTech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165 but I touched below scores. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
+- **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+, including my friends at Cornell and VTech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165 but I touched below scores. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
 
 - **Research Writing Sample:** 📄💻 One solo-authored empirical research paper using causal inference methods. It was only six pages long, but it represented nearly 6–7 months of work ⏳, plus about 10 pages of supplementary material 📑. Those six pages ended up doing an incredible amount of heavy lifting—they came up in almost every interview 🎤 and probably had a stronger social life than I did. 😂
 
