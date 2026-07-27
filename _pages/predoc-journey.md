@@ -286,9 +286,13 @@ After considering all of my offers, I ultimately chose **Penn State University's
 
 ## Final Thoughts
 
-If this page helps even one applicant realise that there is no single blueprint for getting into a Ph.D. programme, then it has served its purpose.
+If there is one message I hope readers take away from this page, it is this:
 
-If you're currently preparing your own applications, I wish you the very best. Good luck! 🚀
+There is no single blueprint for getting into a Ph.D. programme. Build genuine research experience, stay curious, seek good mentors, and let your application tell a coherent story about who you are and the researcher you hope to become.
+
+Finally, if you're reading this while preparing your own applications, I wish you the very best. I know how uncertain, stressful, and sometimes overwhelming the process can feel. Trust your journey, keep improving your craft, and remember that one decision does not define your worth or future.
+
+**P.S. Potential Applicants: If you've actually read everything above... first of all, are you okay? 😄 Go grab a cup of tea ☕, coffee ☕, or matcha 🍵—you've earned it! Congratulations, you've officially reached the end. There isn't a hidden Google Drive, secret SOP, interview question bank, or a mythical "Guaranteed Ph.D. Admit" cheat code waiting below. Everything I'm willing to share is already on this page. The rest is left as an exercise for future applicants. 😉 Now close this tab, go work on your own application, and most importantly... find your own *secret sauce*. 🧪**
 
 <script>
 function pdInit(){
