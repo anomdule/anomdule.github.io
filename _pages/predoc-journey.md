@@ -81,7 +81,7 @@ Skills developed:
 
 ## Other Components of My Application
 
-- **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+ 😭, even my friends at Cornell and Vtech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
+- **GRE Quantitative:** 160 📚✏️😄 (Around the 50th percentile at the time...Ewww that score. Everywhere I looked, people seemed to be scoring 165+ 😭, even my friends at Cornell and Vtech. Naturally, I thought, "One more attempt should do it..." So I took the GRE four more times. Still no 165 but I touched below scores. 🤷‍♂️ Jokes- On the bright side, each attempt ended with sushi 🍣 in the D.C. area, so I'm not entirely convinced I was taking the GRE... I might have just been reviewing sushi restaurants. 😅🍱)
 
 - **Research Writing Sample:** 📄💻 One sole-authored empirical research paper. It was only six pages long, but it represented nearly **6–7 months** of work ⏳, plus about **10 pages of supplementary material** 📑. Somehow those six pages became the MVP of my application—they carried my Statement of Purpose, featured in almost every interview 🎤, and probably worked harder than I did. 😂
 
@@ -91,11 +91,9 @@ Skills developed:
 
 - **Secret Sauce:**
 
-No successful Ph.D. application is built alone.
+- No successful Ph.D. application is built alone. If my application had a secret sauce, it was the weekly mentorship I received from an economist working at Amazon (at the time, maybe now too). From my solo authored sample research paper and statement of purpose, CV review, and mock interview questions, he invested time in helping me build the strongest application possible.
 
-If my application had a secret sauce, it was the weekly mentorship I received from an economist working at Amazon (at the time). From my solo authored sample research paper and statement of purpose, CV reviews, and mock interview question, he invested weekend hours in helping me build the strongest application possible.
-
-I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.
+- I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.
 
 *P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.*
 
