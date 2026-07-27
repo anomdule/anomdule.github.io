@@ -78,10 +78,15 @@ author_profile: true
   .pd-checklist li.pd-checked label{ text-decoration:line-through; color:var(--gh-fg-muted);}
 </style>
 
-<p align="center">
-<i>Welcome to My Pre-Doctoral Journey</i>
-<i>Hello • नमस्ते • 你好 (Nǐ hǎo) • Hola</i>
-</p>
+<div align="center">
+
+# **Welcome to My Pre-Doctoral Journey** 🚀
+
+<br>
+
+### *Hello • नमस्ते • 你好 (Nǐ hǎo) • Hola* 👋
+
+</div>
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
