@@ -111,7 +111,7 @@ I hope this page serves as a useful resource for future applicants, especially t
 
 ---
 
-## Research Experience Before the Ph.D.
+## Research Experience
 
 After completing my M.S. in Applied Economics at the University of Maryland, I worked as a **Research Assistant** at the **Center for Global Sustainability** for over three years. Although not formally labelled a pre-doc, it functioned much like one: I worked closely with three faculties, Dr. Jiehong Lou, Dr. Mengye Zhu, and Jenna Behrendt, on research projects, developed independent research skills, and gained extensive experience in applied economics and public policy. My work focused on energy, equity, and climate policy, where I developed and sharpened my skillset and knowledge in econometrics, geospatial analysis, literature review, scientific writing, and research communication.
 
@@ -183,6 +183,7 @@ Following my engineering degree, I took **three years away from formal education
 </div>
 </details>
 
+---
 ### 📬 Reaching Out to Faculty
 
 I reached out to only a handful of faculty members at **Carnegie Mellon, Duke, and the University of Maryland**, some of whom I had met during **World Bank seminars**. Although I was not admitted to those programmes, the conversations were extremely valuable. I received thoughtful feedback on my research interests and even my solo-authored research paper.
