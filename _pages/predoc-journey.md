@@ -148,7 +148,7 @@ Following my engineering degree, I took **three years away from formal education
 <details>
 <summary>📚 GRE Quantitative: 160 😄</summary>
 <div class="pd-details-body">
-<p>Around the 50th percentile at the time... yep, not exactly the score wanted me to have. Everywhere I looked people seemed to be scoring <b>165+</b>, including several of my friends at Maryland, Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE <b>four more times</b>. Still no at least 165. Jokes- 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱</p>
+<p>Around the 50th percentile at the time... yep, certainly not the kind of score that makes admissions committees throw confetti 🎉. Everywhere I looked people seemed to be scoring <b>165+</b>, including several of my friends at Maryland, Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE <b>four more times</b>. Still no at least 165. Jokes- 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱</p>
 </div>
 </details>
 
@@ -170,7 +170,7 @@ Following my engineering degree, I took **three years away from formal education
 </details>
 
 <details>
-<summary> Secret Sauce</summary>
+<summary> 🧪 Secret Sauce</summary>
 <div class="pd-details-body">
 <p>No successful Ph.D. application is built alone. If my application had a secret sauce, it was the <b>weekly mentorship</b> I received from an economist working at <b>Amazon</b> (at the time... and maybe still there today). From my solo-authored research paper and statement of purpose to mock interviews, he helped me build the strongest application possible. I owe a great deal of my application's success to his guidance and _secret sauce_, which taught me not only how to build a stronger application but also how to think more critically as a researcher.</p>
 <p><i>P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.</i></p>
@@ -208,7 +208,7 @@ Of the **37** Ph.D. applications I submitted, **34** reached a clear admissions 
 
 One thing I learned during this application cycle is that Ph.D. admissions are rarely a simple **accept/reject** process. Depending on the department, an application may go through several stages, including faculty review, interviews, funding decisions, and final offers.
 
-The table below summarizes the progression of my applications — filter it by outcome if you like.
+The table below summarizes the progression of my applications — 
 
 <div class="pd-widget">
 <div class="pd-filters" id="pdFilters">
@@ -219,7 +219,7 @@ The table below summarizes the progression of my applications — filter it by o
 <tr><th>University</th><th>Programme</th><th>Application Journey</th></tr>
 <tr data-status="offer"><td><b>Penn State University</b></td><td>Energy, Environmental & Food Economics</td><td>Application → 1st Interview → 2nd Interview → ✅ Funded Offer → <b>Accepted</b></td></tr>
 <tr data-status="declined"><td><b>National University of Singapore</b></td><td>Economics</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
-<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was likely, but declined (as Penn State was the better research fit)</td></tr>
+<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was likely, but declined prior (as Penn State was the better research fit)</td></tr>
 <tr data-status="declined"><td><b>University of Maryland</b></td><td>Public Policy</td><td>Application → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>University of Georgia</b></td><td>Agricultural & Applied Economics</td><td>Application → Admission → Funding Pending → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>Indiana University Bloomington</b></td><td>Public Affairs</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
