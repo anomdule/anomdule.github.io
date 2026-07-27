@@ -89,11 +89,7 @@ Skills developed:
   - 👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the Center for Global Sustainability and the World Bank, depending on the PhD program in Policy or Economics).
   - 🎓 One academic recommendation from instructors in the University of Maryland's Applied Economics program. *(Yes—instructors are adjunct faculty, not professors! 😄 Great recommendation letters come from people who genuinely know your work, not necessarily the fanciest title.)* 🌟
 
-- **Secret Sauce:**
-
-- No successful Ph.D. application is built alone. If my application had a secret sauce, it was the weekly mentorship I received from an economist working at Amazon (at the time, maybe now too). From my solo authored sample research paper and statement of purpose, CV review, and mock interview questions, he invested time in helping me build the strongest application possible.
-
-- I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.
+- **Secret Sauce:** No successful Ph.D. application is built alone. If my application had a secret sauce, it was the weekly mentorship I received from an economist working at Amazon (at the time, maybe now too). From my solo authored sample research paper and statement of purpose, CV review, and mock interview questions, he invested time in helping me build the strongest application possible. I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.
 
 *P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.*
 
