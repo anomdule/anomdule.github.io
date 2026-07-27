@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Pre-Doctoral Journey"
+title: ""
 permalink: /predoc-journey/
 author_profile: true
 ---
@@ -79,9 +79,13 @@ author_profile: true
 </style>
 
 
-<p align="center">
-<i>Hello • नमस्ते • 你好 • Hola</i>
-</p>
+<div align="center">
+
+# Welcome to My Pre-Doctoral Journey
+
+### *Hello • नमस्ते • 你好 • Hola* 👋
+
+</div>
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
