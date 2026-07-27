@@ -82,16 +82,16 @@ author_profile: true
 
 This page documents my journey to entering a Ph.D. in Applied Economics—from building research experience and preparing my application to navigating interviews, offers, and ultimately choosing Penn State University.
 
-During my application cycle, I received **funded Ph.D. offers**. Among them were offers from **Penn State University (EEFE)**, the **National University of Singapore (Economics)**, the **University of Georgia (Agricultural & Applied Economics)**, the **University of Maryland (Public Policy)**, and **Indiana University Bloomington (Public Affairs)**.
+During my application cycle, I received funded Ph.D. offers. Among them were offers from **Penn State University (EEFE)**, the **National University of Singapore (Economics)**, the **University of Georgia (Agricultural & Applied Economics)**, the **University of Maryland (Public Policy)**, and **Indiana University Bloomington (Public Affairs)**.
 
-I hope this page serves as a useful resource for future applicants, especially those coming from non-traditional backgrounds. There is no single path to entering a Ph.D.—this was mine.
+I hope this page serves as a useful resource for future applicants, especially those coming from non-traditional backgrounds. There is no single path to entering a Ph.D.— this was mine.
 
 > ### 📍 At a Glance
 >
-> - 🎓 **Background:** Chemical Engineering → Applied Economics
+> - 🎓 **Background:** B.Tech. Chemical Engineering → M.S. Applied Economics
 > - 🔬 **Research:** 3+ years @ Center for Global Sustainability + 1 year @ World Bank
-> - 📄 **Research Output:** Solo-authored causal inference paper + multiple co-authored studies
-> - 📨 **Application Cycle:** 37 applications → 7 funded Ph.D. offers
+> - 📄 **Research Output:** Multiple co-authored journal articles + one solo research writing sample
+> - 📨 **Application Cycle:** 37 applications → 7 funded Ph.D. offers (More details in the Application Statistics section)
 > - 🏛️ **Final Destination:** Penn State University (EEFE)
 
 <div class="pd-widget">
@@ -107,26 +107,24 @@ I hope this page serves as a useful resource for future applicants, especially t
 
 ## Research Experience Before the Ph.D.
 
-After completing my M.S. in Applied Economics at the University of Maryland, I worked as a **Research Assistant** at the **Center for Global Sustainability** for over three years. Although my position was not formally labelled a pre-doctoral fellowship, it functioned much like one: I worked closely with faculty on research projects, developed independent research skills, and gained extensive experience in empirical economic research.
+After completing my M.S. in Applied Economics at the University of Maryland, I worked as a **Research Assistant** at the **Center for Global Sustainability** for over three years. Although not formally labelled a pre-doc, it functioned much like one: I worked closely with three faculties, Dr. Jiehong Lou, Dr. Mengye Zhu, and Jenna Behrendt, on research projects, developed independent research skills, and gained extensive experience in applied economics and public policy. My work focused on energy, equity, and climate policy, where I developed and sharpened my skillset and knowledge in econometrics, geospatial analysis, literature review, scientific writing, and research communication.
 
-My work focused on **energy, equity, transportation, and climate policy**, where I developed skills in **econometrics, causal inference, geospatial analysis, literature review, scientific writing, and research communication**.
+Alongside this, I worked for one year as a **Research Analyst Consultant** to a **Senior Economist at the World Bank**, contributing to research on agriculture in Sub-Saharan Africa. This experience further strengthened my empirical research, quantitative analysis, critical thinking, and policy evaluation skills.
 
-Alongside this, I worked for one year as a **Research Analyst Consultant** to a **Senior Economist at the World Bank**, contributing to research on agriculture in **Sub-Saharan Africa**. This experience further strengthened my empirical research, quantitative analysis, critical thinking, and policy evaluation skills.
-
-During these years, I collaborated on several research projects, including a **second-authored journal article with Jiehong Lou**, which was **under revise-and-resubmit at _Environmental Research & Social Science_ during my Ph.D. application cycle**.
+During these years, I collaborated on several research projects, including a **second-authored journal article with Dr. Lou**, which was under revise-and-resubmit at _Energy Research & Social Science_ during my Ph.D. application cycle.
 
 ---
 
-## Building My Application Beyond Research
+## My Application Beyond Research
 
 ### Academic Preparation
 
 **B.Tech. Chemical Engineering**
 *Dr. Babasaheb Ambedkar Technological University*
 
-**Relevant Coursework:** Calculus, Linear Algebra, Differential Equations.
+**Relevant Coursework:** Calculus, Linear Algebra, Differential Equations, Other Engineering Courses.
 
-*I did not have formal coursework in Real Analysis. Contrary to popular belief, that wasn't the end of the world for me. 😄*
+*I did not have formal coursework in Real Analysis.*
 
 ---
 
@@ -150,14 +148,14 @@ Following my engineering degree, I took **three years away from formal education
 <details>
 <summary>📚 GRE Quantitative: 160 😄</summary>
 <div class="pd-details-body">
-<p>Around the 50th percentile at the time... yep, not exactly the score Reddit wanted me to have. Everywhere I looked people seemed to be scoring <b>165+</b>, including several of my friends at Maryland, Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE <b>four more times</b>. Still no 165. 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱</p>
+<p>Around the 50th percentile at the time... yep, not exactly the score wanted me to have. Everywhere I looked people seemed to be scoring <b>165+</b>, including several of my friends at Maryland, Cornell and Virginia Tech. Naturally, I thought, "One more attempt should do it..." So I took the GRE <b>four more times</b>. Still no at least 165. Jokes- 🤷‍♂️ On the bright side, every attempt ended with sushi 🍣 somewhere in the D.C. area, so I'm still not convinced I was taking the GRE... I may have just been reviewing sushi restaurants. 😅🍱</p>
 </div>
 </details>
 
 <details>
 <summary>📄 Research Writing Sample</summary>
 <div class="pd-details-body">
-<p>One <b>solo-authored empirical research paper</b> using causal inference methods. It was only <b>six pages long</b>, but it represented nearly <b>6–7 months</b> of work ⏳, plus about <b>10 pages of supplementary material</b> 📑. Those six pages ended up doing an incredible amount of heavy lifting—they came up in almost every interview 🎤 and probably had a stronger social life than I did. 😂</p>
+<p>One <b>Solo-authored sample research paper</b> using causal inference methods. It was only <b>six pages long</b>, but it represented nearly <b>6–7 months</b> of work ⏳, plus about <b>10 pages of supplementary material</b> 📑. Those six pages ended up doing an incredible amount of heavy lifting—they came up in almost every interview 🎤 and probably had a stronger social life than I did. 😂</p>
 </div>
 </details>
 
@@ -165,16 +163,16 @@ Following my engineering degree, I took **three years away from formal education
 <summary>✉️ Recommendation Letters</summary>
 <div class="pd-details-body">
 <ul>
-<li>👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the <b>Center for Global Sustainability</b> and the <b>World Bank</b>, depending on whether the programme was in Economics or Public Policy).</li>
+<li>👨‍🔬👩‍🔬 Two research supervisors (a combination of supervisors from the <b>Center for Global Sustainability</b> and the <b>World Bank</b>, depending on whether the program was in Econ/ Ag Econ/ Public Policy).</li>
 <li>🎓 One academic recommendation from <b>instructors</b> in the University of Maryland's Applied Economics program. <i>(Yes—instructors, not professors! 😄 Great recommendation letters come from people who genuinely know your work, not necessarily the fanciest title.)</i> 🌟</li>
 </ul>
 </div>
 </details>
 
 <details>
-<summary>🌶️ Secret Sauce</summary>
+<summary> Secret Sauce</summary>
 <div class="pd-details-body">
-<p>No successful Ph.D. application is built alone. If my application had a secret sauce, it was the <b>weekly mentorship</b> I received from an economist working at <b>Amazon</b> (at the time... and maybe still there today). From my solo-authored research paper and Statement of Purpose to CV reviews, school selection, and mock interviews, he invested an incredible amount of time helping me build the strongest application possible. I owe a great deal of my application's success to his guidance, which taught me not only how to build a stronger application but also how to think more critically as a researcher.</p>
+<p>No successful Ph.D. application is built alone. If my application had a secret sauce, it was the <b>weekly mentorship</b> I received from an economist working at <b>Amazon</b> (at the time... and maybe still there today). From my solo-authored research paper and statement of purpose to mock interviews, he helped me build the strongest application possible. I owe a great deal of my application's success to his guidance and _secret sauce_, which taught me not only how to build a stronger application but also how to think more critically as a researcher.</p>
 <p><i>P.S. 🤫 His identity shall remain classified. Every applicant deserves to find their own secret sauce.</i></p>
 </div>
 </details>
@@ -214,18 +212,14 @@ The table below summarizes the progression of my applications — filter it by o
 
 <div class="pd-widget">
 <div class="pd-filters" id="pdFilters">
-  <button class="pd-chip active" data-filter="all">All (12)</button>
-  <button class="pd-chip" data-filter="offer">Funded Offer, Accepted</button>
-  <button class="pd-chip" data-filter="declined">Declined by Me</button>
-  <button class="pd-chip" data-filter="waitlist">Waitlist / Not Pursued</button>
-  <button class="pd-chip" data-filter="rejected">Not Admitted</button>
+  <button class="pd-chip active" data-filter="all">Positive Outcomes (12)</button>
 </div>
 
 <table class="pd-table" id="pdTable">
 <tr><th>University</th><th>Programme</th><th>Application Journey</th></tr>
 <tr data-status="offer"><td><b>Penn State University</b></td><td>Energy, Environmental & Food Economics</td><td>Application → 1st Interview → 2nd Interview → ✅ Funded Offer → <b>Accepted</b></td></tr>
 <tr data-status="declined"><td><b>National University of Singapore</b></td><td>Economics</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
-<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Declined (Penn State was the better research fit)</td></tr>
+<tr data-status="declined"><td><b>University of California, Santa Cruz</b></td><td>Economics</td><td>Application → Interview → Oral Offer → Funded offer was likely, but declined (as Penn State was the better research fit)</td></tr>
 <tr data-status="declined"><td><b>University of Maryland</b></td><td>Public Policy</td><td>Application → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>University of Georgia</b></td><td>Agricultural & Applied Economics</td><td>Application → Admission → Funding Pending → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
 <tr data-status="declined"><td><b>Indiana University Bloomington</b></td><td>Public Affairs</td><td>Application → Interview → ✅ Funded Offer → Declined (Chose Penn State)</td></tr>
@@ -238,13 +232,20 @@ The table below summarizes the progression of my applications — filter it by o
 </table>
 </div>
 
-- **No Final Decision or very late beyond april decisons:** NC State University, Virginia Tech, Simon Fraser University (I did not follow up after receiving funded offers elsewhere).--- I lost 3 applications just like that and some $$.
+<div class="pd-widget">
+<details>
+<summary>🎓 Rejections: The "Character Development"</summary>
+<div class="pd-details-body">
+<p>Every Ph.D. applicant has a rejection folder. Here's part of mine 😄: Stanford University (ESS), Duke University (UPEP), Carnegie Mellon University (Public Policy), Columbia University (Sustainable Development), Economics programmes at UC San Diego, UT Austin, and Michigan State, and Agricultural Economics programmes at the University of Maryland, UC Berkeley, UIUC, and UW–Madison. Additional universities reject exist but aren't necessary to list at this point</p>
+</div>
+</details>
+</div>
 
 <div class="pd-widget">
 <details>
-<summary>🎓 Rejections: The "Character Development" Section</summary>
+<summary>No Final Decision or very late beyond april decisons</summary>
 <div class="pd-details-body">
-<p>Every Ph.D. applicant has a rejection folder. Here's part of mine 😄: Stanford University (ESS), Duke University (UPEP), Carnegie Mellon University (Public Policy), Columbia University (Sustainable Development), Economics programmes at UC San Diego, UT Austin, and Michigan State, and Agricultural Economics programmes at the University of Maryland, UC Berkeley, UIUC, and UW–Madison.</p>
+<p>ENC State University, Virginia Tech, Simon Fraser University (I did not follow up after receiving funded offers elsewhere).--- I lost 3 applications just like that and some $$.</p>
 </div>
 </details>
 </div>
@@ -254,7 +255,12 @@ The table below summarizes the progression of my applications — filter it by o
 ### Interviews
 
 One of the most enjoyable parts of the application cycle was the interviews.
-Most of them felt much more like research conversations than formal interviews. Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions. Looking back, I think thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
+
+Most of them felt much more like research conversations than formal interviews. Faculty were generally interested in discussing my research experiences, future ideas, and overall fit with the department rather than asking technical questions.
+
+To prepare, I worked closely with my mentors to brainstorm the kinds of questions faculty might ask based on my research interests, statement of purpose, and CV. Together, we created an interview preparation document with potential questions, discussion points, and concise answers. That document served as a **guide**, not a script.
+
+When the actual interviews came around, I rarely found myself reciting memorised answers. Instead, the preparation gave me the confidence to think through questions in real time and have genuine research conversations with faculty. Looking back, thorough preparation for my research paper, statement of purpose, and prior projects mattered far more than memorising answers to interview questions.
 
 ---
 
@@ -266,16 +272,21 @@ After considering all of my offers, I ultimately chose **Penn State University's
 
 ## Lessons Learned
 
-<div class="pd-widget">
-<ul class="pd-checklist" id="pdChecklist">
-  <li><input type="checkbox" id="pd-l1"><label for="pd-l1">Research experience mattered far more than I initially expected.</label></li>
-  <li><input type="checkbox" id="pd-l2"><label for="pd-l2">A strong research writing sample can open more doors than a slightly higher GRE score.</label></li>
-  <li><input type="checkbox" id="pd-l3"><label for="pd-l3">Great recommendation letters come from people who genuinely know your work—not necessarily the most famous names.</label></li>
-  <li><input type="checkbox" id="pd-l4"><label for="pd-l4">Mentorship is invaluable.</label></li>
-  <li><input type="checkbox" id="pd-l5"><label for="pd-l5">Apply broadly, but apply strategically.</label></li>
-  <li><input type="checkbox" id="pd-l6"><label for="pd-l6">Most importantly, there is no single path into a Ph.D.</label></li>
-</ul>
-</div>
+- 🔬 **Research experience mattered far more than I initially expected.** It became the strongest component of my application and shaped almost every interview.
+
+- 📄 **A strong research writing sample can open more doors than a slightly higher GRE score.** My six-page paper ended up carrying much of my application.
+
+- ✉️ **Great recommendation letters come from people who genuinely know your work—not necessarily the most famous names.**
+
+- 📄 **Mentorship is invaluable.** Constructive feedback from mentors significantly improved my research, statement of purpose, interviews, and overall application package.
+
+- 🎯 **Prepare for interviews by understanding your own work, not by memorising answers.** My interview preparation document was a guide, but the actual interviews felt like research conversations rather than question-and-answer sessions.
+
+- 📚 - 🎯 **Apply broadly, but apply strategically.** In my experience, the strongest applications were those where my past research, current interests, and future research agenda formed a coherent story that aligned well with the faculty and department. This is certainly subjective, but I found that staying true to my research trajectory was more valuable than trying to anticipate what admissions committees might want to see.
+  
+- 💬 **Don't hesitate to seek feedback.** Reaching out to faculty after admissions decisions helped me better understand the process and reminded me that many excellent applicants are not admitted simply because of limited positions, funding, or faculty availability.
+
+- 🚀 **Most importantly, there is no single path into a Ph.D.** Every applicant's journey is different, and success can come through many routes.
 
 ---
 
