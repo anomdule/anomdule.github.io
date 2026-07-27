@@ -80,11 +80,9 @@ author_profile: true
 
 <div align="center">
 
-# **Welcome to My Pre-Doctoral Journey** 🚀
+<h1>Welcome to My Pre-Doctoral Journey </h1>
 
-<br>
-
-### *Hello • नमस्ते • 你好 (Nǐ hǎo) • Hola* 👋
+<p><em>Hello • नमस्ते • 你好 (Nǐ hǎo) • Hola </em></p>
 
 </div>
 
