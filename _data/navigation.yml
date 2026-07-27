@@ -11,5 +11,7 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Pre-Doctoral Journey"
+    url: /predoc-journey/
   - title: "Other Interests"
     url: /free-time/
