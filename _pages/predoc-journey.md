@@ -29,29 +29,36 @@ author_profile: true
   .pd-hero{
     position:relative;
     overflow:hidden;
-    margin:0 0 30px;
-    padding:34px 24px 28px;
-    border:1px solid rgba(124,58,237,.14);
+    margin:0 0 36px;
+    padding:42px 36px;
     border-radius:24px;
+
     background:
-      radial-gradient(circle at 12% 18%, rgba(37,99,235,.18), transparent 34%),
-      radial-gradient(circle at 88% 20%, rgba(124,58,237,.18), transparent 32%),
-      linear-gradient(135deg,#f8fbff 0%,#f6f3ff 52%,#f0fbff 100%);
-    box-shadow:var(--pd-shadow);
-  }
-  .pd-hero::after{
+        linear-gradient(135deg,#ffffff 0%,#fbfcff 55%,#f8faff 100%);
+
+    border:1px solid rgba(37,99,235,.08);
+
+    box-shadow:
+        0 12px 35px rgba(15,23,42,.06);
+}
+ .pd-hero::after{
     content:"";
     position:absolute;
-    width:180px;height:180px;
-    right:-70px;bottom:-90px;
-    border-radius:50%;
-    background:linear-gradient(135deg,rgba(37,99,235,.18),rgba(124,58,237,.16));
-    filter:blur(2px);
-  }
-  .pd-hero h1{
-    margin:0 0 10px;
-    font-size:clamp(2rem,5vw,3.2rem);
-    line-height:1.06;
+    inset:0;
+
+    background:
+      radial-gradient(circle at 90% 20%,
+      rgba(37,99,235,.06),
+      transparent 25%);
+
+    pointer-events:none;
+}
+   .pd-hero h1{
+    margin:0 0 12px;
+    font-size:clamp(2rem,4vw,2.7rem);
+    line-height:1.12;
+    font-weight:800;
+    letter-spacing:-0.03em;
     letter-spacing:-.035em;
     background:linear-gradient(90deg,var(--pd-blue),var(--pd-violet),var(--pd-cyan));
     -webkit-background-clip:text;
@@ -677,12 +684,7 @@ function pdInit(){
       originalFilters.parentNode.insertBefore(controls,originalFilters);
       controls.appendChild(originalFilters);
 
-      var search=document.createElement('input');
-      search.className='pd-search';
-      search.type='search';
-      search.placeholder='Search university or programme…';
-      search.setAttribute('aria-label','Search admissions outcomes');
-      controls.insertBefore(search,originalFilters);
+      
 
       var wrap=document.createElement('div');
       wrap.className='pd-table-wrap';
@@ -693,7 +695,7 @@ function pdInit(){
       var rows=table.querySelectorAll('tr[data-status]');
 
       function applyFilters(){
-        var q=search.value.trim().toLowerCase();
+        var q="";
         rows.forEach(function(row){
           var statusOK=activeFilter==='all'||row.getAttribute('data-status')===activeFilter;
           var searchOK=!q||row.textContent.toLowerCase().indexOf(q)!==-1;
@@ -709,7 +711,7 @@ function pdInit(){
           applyFilters();
         });
       });
-      search.addEventListener('input',applyFilters);
+
     }
   }catch(e){}
 
