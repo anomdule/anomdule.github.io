@@ -43,3 +43,35 @@
    
 
 ;
+
+/* =========================================================
+   Use the full available page width
+   ========================================================= */
+
+@media screen and (min-width: 1024px) {
+  /* Remove the unused right-sidebar/TOC space */
+  .page {
+    width: calc(100% - 300px) !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+
+
+/* =========================================================
+   Move navigation tabs to the right
+   ========================================================= */
+
+.greedy-nav {
+  width: 100%;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+  justify-content: flex-end;
+}
