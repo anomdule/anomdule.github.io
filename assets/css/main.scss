@@ -58,7 +58,6 @@
   }
 }
 
-
 /* =========================================================
    Full-width header
    ========================================================= */
@@ -68,6 +67,7 @@
   max-width: none !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
+  box-sizing: border-box !important;
 }
 
 .masthead__menu,
@@ -76,27 +76,52 @@
   max-width: none !important;
 }
 
-
-/* =========================================================
-   Name on the left, navigation tabs on the right
-   ========================================================= */
-
 #site-nav {
+  position: relative !important;
   display: flex !important;
   align-items: center !important;
 }
+
+
+/* =========================================================
+   Name on left, navigation links on right
+   ========================================================= */
 
 #site-nav .visible-links {
   display: flex !important;
   align-items: center !important;
-  flex: 1 1 auto !important;
 
-  /* Important: do not set width: 100% */
+  /* Do not allow the list to stretch across the header */
+  flex: 0 0 auto !important;
   width: auto !important;
-  margin: 0 !important;
+
+  margin-left: auto !important;
   padding: 0 !important;
 }
 
+/* Remove the name from the normal navigation flow
+   and position it on the far left */
 #site-nav .visible-links > li:first-child {
-  margin-right: auto !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  margin: 0 !important;
+}
+
+
+/* =========================================================
+   Mobile behaviour
+   ========================================================= */
+
+@media screen and (max-width: 768px) {
+  .masthead__inner-wrap {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  #site-nav .visible-links > li:first-child {
+    position: static !important;
+    transform: none !important;
+  }
 }
