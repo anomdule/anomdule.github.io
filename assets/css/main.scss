@@ -2,54 +2,50 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * This file controls what is imported from /_sass.
+ * The first two lines are required by Jekyll.
  */
 
 @import
-    "vendor/breakpoint/breakpoint",
+  "vendor/breakpoint/breakpoint",
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+  "themes",
+  "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+  "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-    "include/mixins",
-    "vendor/susy/susy",
+  "include/mixins",
+  "vendor/susy/susy",
 
-    "layout/reset",
-    "layout/base",
+  "layout/reset",
+  "layout/base",
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
 
-    "layout/forms",
+  "layout/forms",
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+  "layout/json_cv",
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-   
-
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands"
 ;
+
 
 /* =========================================================
    Use the full available page width
    ========================================================= */
 
 @media screen and (min-width: 1024px) {
-  /* Remove the unused right-sidebar/TOC space */
   .page {
     width: calc(100% - 300px) !important;
     padding-right: 0 !important;
@@ -64,39 +60,9 @@
 
 
 /* =========================================================
-   Move navigation tabs to the right
+   Full-width header
    ========================================================= */
 
-.greedy-nav {
-  width: 100%;
-}
-
-.greedy-nav .visible-links {
-  margin-left: auto !important;
-  justify-content: flex-end;
-}
-
-/* Move the site name to the far left and navigation to the right */
-.masthead__inner-wrap {
-  max-width: none !important;
-  width: 100% !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
-
-.greedy-nav {
-  width: 100% !important;
-}
-
-.greedy-nav .site-title {
-  margin-right: auto !important;
-}
-
-.greedy-nav .visible-links {
-  margin-left: auto !important;
-}
-
-/* Full-width header */
 .masthead__inner-wrap,
 .masthead__menu,
 #site-nav {
@@ -104,7 +70,16 @@
   max-width: none !important;
 }
 
-/* Keep the name on the left and navigation links on the right */
+.masthead__inner-wrap {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+
+/* =========================================================
+   Site name on the left, navigation on the right
+   ========================================================= */
+
 #site-nav .visible-links {
   display: flex !important;
   align-items: center !important;
@@ -113,13 +88,6 @@
   margin: 0 !important;
 }
 
-/* First item is the site name */
 #site-nav .visible-links > li:first-child {
   margin-right: auto !important;
-}
-
-/* Header spacing from browser edges */
-.masthead__inner-wrap {
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
 }
