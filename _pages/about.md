@@ -15,7 +15,7 @@ I'm Anom, a Ph.D. student in Energy, Environmental, and Food Economics at Penn S
 
 Before joining Penn State, I worked as a Research Assistant at the Center for Global Sustainability, University of Maryland, where I studied clean energy and climate policies in the United States and China. I also worked as a Research Analyst at the World Bank, contributing to research on the agricultural sector in Sub-Saharan Africa.
 
-My research combines causal inference, geospatial analysis, and large-scale data integration. I primarily work in Stata, Python, R, and QGIS, building reproducible, data-intensive workflows that transform complex datasets into evidence and produce their policy implications.
+My research combines causal inference, geospatial analysis, and large-scale data integration. I primarily work in Stata, Python, R, and QGIS, building reproducible, data-intensive workflows that transform complex datasets into evidence and their policy implications.
 
 📄 [**View my CV →**](/files/Anom_AMD_CV_3.pdf){:target="_blank"}
 
