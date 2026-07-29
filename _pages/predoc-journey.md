@@ -390,8 +390,6 @@ During these years, I collaborated on several research projects, including a **s
 
 ## My Application Beyond Research
 
-### Academic Preparation
-
 **B.Tech. Chemical Engineering**
 *Dr. Babasaheb Ambedkar Technological University*
 
