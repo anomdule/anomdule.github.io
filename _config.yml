@@ -24,9 +24,9 @@ repository               : "anomdule/anomdule.github.io"
 author:
   # Biographic information
   avatar           : "anom_dp_2.png"
-  name             : "Anom"
+  name             : "Applied Economics Researcher"
   pronouns         : #"he/ his"  
-  bio              : "Applied Economics Researcher"
+  bio              : #"Applied Economics Researcher"
   location         : "University Park, PA, USA"
   employer         : >
                      Penn State University
