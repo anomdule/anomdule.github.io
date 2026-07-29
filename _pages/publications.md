@@ -386,9 +386,6 @@ author_profile: true
   <header class="pub-hero">
     <h1>Publications & Work In Progess</h1>
     <p>
-      Research outputs spanning energy and environmental policy,
-      infrastructure equity, methane mitigation, development economics,
-      and applied empirical analysis.
     </p>
   </header>
 
