@@ -17,5 +17,5 @@ Before joining Penn State, I worked as a Research Assistant at the Center for Gl
 
 My research combines causal inference, geospatial analysis, and large-scale data integration. I primarily work in Stata, Python, R, and QGIS, building reproducible, data-intensive workflows that transform complex datasets into evidence and their policy implications.
 
-#📄 [**View my CV →**](/files/Anom_AMD_CV_3.pdf){:target="_blank"}
+📄 [**View my CV →**](/files/Anom_AMD_CV_3.pdf){:target="_blank"}
 
