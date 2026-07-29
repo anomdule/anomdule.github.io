@@ -349,7 +349,7 @@ author_profile: true
 
 <h1>Welcome to My Pre-Doctoral Journey </h1>
 
-<p><em>Hello • नमस्ते • 你好 (Nǐ hǎo) • Hola </em></p>
+<p><em>Hello • नमस्ते • 你好 • Hola </em></p>
 
 </div>
 
