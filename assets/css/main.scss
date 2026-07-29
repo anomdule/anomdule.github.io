@@ -63,29 +63,38 @@
    Full-width header
    ========================================================= */
 
-.masthead__inner-wrap,
+.masthead__inner-wrap {
+  width: 100% !important;
+  max-width: none !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
 .masthead__menu,
 #site-nav {
   width: 100% !important;
   max-width: none !important;
 }
 
-.masthead__inner-wrap {
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
-
 
 /* =========================================================
-   Site name on the left, navigation on the right
+   Name on the left, navigation tabs on the right
    ========================================================= */
+
+#site-nav {
+  display: flex !important;
+  align-items: center !important;
+}
 
 #site-nav .visible-links {
   display: flex !important;
   align-items: center !important;
-  width: 100% !important;
   flex: 1 1 auto !important;
+
+  /* Important: do not set width: 100% */
+  width: auto !important;
   margin: 0 !important;
+  padding: 0 !important;
 }
 
 #site-nav .visible-links > li:first-child {
