@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anom Ashok Meena D."
+title                    : "Anom Ashok Meena"
 title_separator          : "-"
 name                     : &name "Crafted with a cup of coffee ☕, little coding 💻 and some love ❤️ by Anom"
-description              : &description "Economics • Public Policy"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Applied Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://anomdule.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,14 +24,14 @@ repository               : "anomdule/anomdule.github.io"
 author:
   # Biographic information
   avatar           : "anom_dp_2.png"
-  name             : "Econ/ Public Policy Researcher"
+  name             : "Anom"
   pronouns         : #"he/ his"  
-  bio              : #"Econ/ Public Policy Researcher"
-  location         : "College Park, MD, USA"
+  bio              : "Applied Economics Researcher"
+  location         : "University Park, PA, USA"
   employer         : >
-                     Cntr for Global Sustain., UMD
+                     Penn State University
   # uri              : # URL
-  email            : "anomdule@gmail.com/ anomdule@umd.edu" 
+  email            : "anomdule@gmail.com/ajd7908@psu.edu" 
 
   # Academic websites
   # academia         : # URL
