@@ -475,7 +475,7 @@ Of the **37** Ph.D. applications I submitted, **34** reached a clear admissions 
 | Positive Outcomes* | **12** |
 | Fully Funded Ph.D. Offers | **7** |
 
-*Success Rates**
+**Success Rates**
 
 - 🎯 **Positive Outcome Rate:** **35.3%** (12/34)
 - 🎓 **Fully Funded Offer Rate:** **20.6%** (7/34)
