@@ -509,7 +509,7 @@ The table below summarizes the progression of my applications —
 <tr data-status="waitlist"><td><b>University of Connecticut</b></td><td>Agricultural & Resource Economics</td><td>Application → Admission → Funding Waitlist → Declined (Not Pursued)</td></tr>
 <tr data-status="rejected"><td><b>University of Florida</b></td><td>Food & Resource Economics</td><td>Application → Interview → Not Admitted (Advisor mismatch)</td></tr>
 <tr data-status="waitlist"><td><b>University of Calgary</b></td><td>Economics</td><td>Application → Funding Waitlist → Not Pursued</td></tr>
-<tr data-status="waitlist"><td><b>Georgia State University</b></td><td>Economics</td><td>Application → Waitlist → Not Pursued <i>(No health insurance was a deal-breaker already😅)</i></td></tr>
+<tr data-status="waitlist"><td><b>Georgia State University</b></td><td>Economics</td><td>Application → Waitlist → Not Pursued </i></td></tr>
 </table>
 </div>
 
