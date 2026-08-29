@@ -12,4 +12,23 @@ And yes, I’ve probably watched **more movies and shows than I should admit** (
 
 At heart, I’m drawn to **clever comedies**, **timeless sitcoms**, and **films that either make perfect sense or absolutely none at all**. Someday soon, I’ll share my little **“Anom Recommends”** list of favorite movies and shows — because some stories truly deserve a second (or more) watch 🎬
 
+<style>
+@media screen and (min-width: 1024px) {
 
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .page__content > div,
+  .page__content > section,
+  .page__content .container,
+  .page__content .wrapper {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+  }
+
+}
+</style>
