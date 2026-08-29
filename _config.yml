@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anom Ashok Meena | Energy, Environmental & Applied Economics"
+title                    : "Anom Ashok Meena | Applied Economics"
 title_separator          : "-"
 name                     : &name "Anom Ashok Meena"
-description              : &description "Anom is a PhD student in Energy, Environmental, and Food Economics at Penn State University. His research focuses on energy economics, environmental economics, development economics, applied microeconomics, and causal inference. Previously, he worked as a Research Assistant at the Center for Global Sustainability at the University of Maryland."
+description              : &description "Anom Ashok Meena (also publishing as Anom Ashok Dule) is a PhD student in Energy, Environmental, and Food Economics at Penn State University. His research spans energy, environmental, development, and applied microeconomics. Previously, he worked at the Center for Global Sustainability at the University of Maryland."
 url                      : "https://anomdule.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "anomdule/anomdule.github.io"
 author:
   # Biographic information
   avatar           : "anom_dp_2.png"
-  name             : "Anom"
+  name             : ""
   pronouns         : #"he/ his"  
-  bio              : "PhD Student in Energy, Environmental, and Food Economics at Penn State University. Previously at the Center for Global Sustainability, University of Maryland."
+  bio              : "PhD Student in Energy, Environmental, and Food Economics"
   location         : "University Park, PA, USA"
   employer         : >
                      Penn State University
