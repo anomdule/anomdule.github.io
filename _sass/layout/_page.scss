@@ -87,16 +87,30 @@
     font-size: 1em;
   }
 
-  p {
-    margin: 0 0 $indent-var;
+  /* Clean paragraph spacing across all pages */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 0;
+  line-height: 1.55;
+}
 
-    @if $paragraph-indent == true {
-      & + p {
-        text-indent: $indent-var;
-        margin-top: -($indent-var);
-      }
-    }
-  }
+/* Consecutive paragraphs */
+p + p {
+  margin-top: 0;
+  text-indent: 0;
+}
+
+/* Remove empty paragraphs created by Markdown/HTML */
+p:empty {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+   /* Prevent stray line breaks from creating huge gaps */
+.page__content br + br {
+  display: none;
+}
 
   a {
     text-decoration: underline;
