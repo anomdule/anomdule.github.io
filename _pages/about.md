@@ -13,7 +13,7 @@ A warm welcome! I'm delighted you're here, and hope you enjoy exploring my work.
 
 I'm Anom, a Ph.D. student in Energy, Environmental, and Food Economics at Penn State University. My research spans energy, development, and behavioural economics, with current interests in power outages and demand response programs. I use causal inference and geospatial methods to study policy-relevant questions across developing and developed economies.
 
-Before joining Penn State, I worked at the Center for Global Sustainability at the University of Maryland on clean energy and climate policy in the United States and China, and at the World Bank on research related to agriculture in Sub-Saharan Africa. My work combines causal inference, geospatial analysis, and large-scale data, using Stata, Python, R, and QGIS.
+Before joining Penn State, I worked at the Center for Global Sustainability at the University of Maryland on clean energy and climate policy in the United States and China, and at the World Bank on research related to agriculture in Sub-Saharan Africa. 
 
 📄 [**View my CV →**](/files/Anom_AMD_CV_3.pdf){:target="_blank"}
 
