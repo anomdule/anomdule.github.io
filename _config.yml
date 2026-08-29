@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anom Ashok Meena"
+title                    : "Anom Ashok Meena | Energy, Environmental & Applied Economics"
 title_separator          : "-"
-name                     : &name "Crafted with a cup of coffee ☕, little coding 💻 and some love ❤️ by Anom"
-description              : &description "Applied Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://anomdule.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Anom Ashok Meena"
+description              : &description "Anom is a PhD student in Energy, Environmental, and Food Economics at Penn State University. His research focuses on energy economics, environmental economics, development economics, applied microeconomics, and causal inference. Previously, he worked as a Research Assistant at the Center for Global Sustainability at the University of Maryland."
+url                      : "https://anomdule.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anomdule/anomdule.github.io"
@@ -24,14 +24,14 @@ repository               : "anomdule/anomdule.github.io"
 author:
   # Biographic information
   avatar           : "anom_dp_2.png"
-  name             : "Applied Econ Researcher"
+  name             : "Anom"
   pronouns         : #"he/ his"  
-  bio              : #"Applied Econ Researcher"
-  location         : #"University Park, PA, USA"
+  bio              : "PhD Student in Energy, Environmental, and Food Economics at Penn State University. Previously at the Center for Global Sustainability, University of Maryland."
+  location         : "University Park, PA, USA"
   employer         : >
                      Penn State University
   # uri              : # URL
-  email            : "anomdule@gmail.com/ajd7908@psu.edu" 
+  email            : "ajd7908@psu.edu" 
 
   # Academic websites
   # academia         : # URL
@@ -145,10 +145,13 @@ yandex_site_verification :
 # og_description           :  # Social media default site image description
 # # For specifying social profiles
 # # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#   type                   : # Person or Organization (defaults to Person)
-#   name                   : # If the user or organization name differs from the site's name
-#   links: # An array of links to social media profiles
+social:
+  type                   : Person
+  name                   : "Anom Ashok Dule"
+  links:
+    - "https://github.com/anomdule"
+    - "https://www.researchgate.net/profile/Anom-Ashok-Dule"
+    - "https://www.linkedin.com/in/anom-ashok-meena/"
 
 
 # Analytics
@@ -308,7 +311,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -317,7 +320,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
