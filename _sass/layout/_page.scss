@@ -808,3 +808,31 @@ p:empty {
     min-width: 0;
   }
 }
+
+/* ==========================================================================
+   FINAL DESKTOP WIDTH FIX
+   Use the available laptop/browser width
+   ========================================================================== */
+
+@media screen and (min-width: 1024px) {
+
+  #main {
+    width: 96vw !important;
+    max-width: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .page,
+  .archive {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
