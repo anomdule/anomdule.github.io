@@ -12,23 +12,87 @@ And yes, I’ve probably watched **more movies and shows than I should admit** (
 
 At heart, I’m drawn to **clever comedies**, **timeless sitcoms**, and **films that either make perfect sense or absolutely none at all**. Someday soon, I’ll share my little **“Anom Recommends”** list of favorite movies and shows — because some stories truly deserve a second (or more) watch 🎬
 
+
 <style>
+/* ==========================================================
+   OTHER INTERESTS — RESPONSIVE WIDTH FIX
+   ========================================================== */
+
+/* Desktop / laptop */
 @media screen and (min-width: 1024px) {
 
-  .page__inner-wrap,
-  .page__content {
+  .archive {
+    position: relative !important;
+    float: none !important;
+
     width: 100% !important;
-    max-width: none !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    min-width: 0;
+    box-sizing: border-box;
   }
 
-  .page__content > div,
-  .page__content > section,
-  .page__content .container,
-  .page__content .wrapper {
+  .archive > div,
+  .archive > section,
+  .archive .container,
+  .archive .wrapper {
     width: 100% !important;
     max-width: none !important;
     box-sizing: border-box;
   }
+}
 
+
+/* Phone / tablet, including "Desktop Site" on touch devices */
+@media screen and (max-width: 1023px),
+       screen and (hover: none) and (pointer: coarse) {
+
+  .archive {
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+
+    box-sizing: border-box !important;
+  }
+
+  .archive > div,
+  .archive > section,
+  .archive .container,
+  .archive .wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    box-sizing: border-box !important;
+  }
+
+  /* Prevent text/media from overflowing */
+  .archive img,
+  .archive video,
+  .archive iframe {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .archive p,
+  .archive li,
+  .archive a {
+    overflow-wrap: anywhere;
+  }
 }
 </style>
+
