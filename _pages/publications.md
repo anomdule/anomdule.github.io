@@ -897,3 +897,56 @@ if(document.readyState==="loading"){
 
 }
 </style>
+
+<style>
+/* Mobile: make page content use the full screen width */
+@media screen and (max-width: 1023px) {
+
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    box-sizing: border-box;
+  }
+
+  .page__content > div,
+  .page__content > section,
+  .page__content .container,
+  .page__content .wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    box-sizing: border-box;
+  }
+
+  /* If your publication cards use grids/flex */
+  .page__content .grid,
+  .page__content .cards,
+  .page__content .card-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+</style>
+
+<style>
+@media screen and (max-width: 1023px) {
+  .page__content .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+</style>
