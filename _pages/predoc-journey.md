@@ -729,3 +729,24 @@ if(document.readyState==='loading'){
   pdInit();
 }
 </script>
+
+<style>
+/* Pre-Doctoral Journey desktop width override */
+@media screen and (min-width: 1024px) {
+
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .page__content > div,
+  .page__content section {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+  }
+
+}
+</style>
