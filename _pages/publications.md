@@ -876,3 +876,24 @@ if(document.readyState==="loading"){
   initialisePublicationsPage();
 }
 </script>
+
+<style>
+@media screen and (min-width: 1024px) {
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .page__content > div,
+  .page__content > section,
+  .page__content .container,
+  .page__content .wrapper {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+  }
+
+}
+</style>
