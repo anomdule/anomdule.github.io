@@ -899,54 +899,138 @@ if(document.readyState==="loading"){
 </style>
 
 <style>
-/* Mobile: make page content use the full screen width */
-@media screen and (max-width: 1023px) {
+/* ==========================================================
+   PUBLICATIONS — MOBILE + PHONE "DESKTOP SITE" FIX
+   ========================================================== */
 
-  .page,
-  .page__inner-wrap,
-  .page__content {
+/* Normal mobile/tablet */
+@media screen and (max-width: 1023px),
+
+       /* Also catch phones requesting "Desktop Site" */
+       screen and (hover: none) and (pointer: coarse) {
+
+  /* Publications uses layout: archive, not page */
+  .archive {
+    position: relative !important;
+    float: none !important;
+
     width: 100% !important;
     max-width: 100% !important;
 
     margin-left: 0 !important;
     margin-right: 0 !important;
 
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
 
-    box-sizing: border-box;
+    box-sizing: border-box !important;
   }
 
-  .page__content > div,
-  .page__content > section,
-  .page__content .container,
-  .page__content .wrapper {
+  /* Main publications wrapper */
+  .pub-page {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    box-sizing: border-box !important;
+  }
+
+  /* Header */
+  .pub-hero {
     width: 100% !important;
     max-width: 100% !important;
 
     margin-left: 0 !important;
     margin-right: 0 !important;
 
-    box-sizing: border-box;
+    padding: 24px 18px !important;
+
+    box-sizing: border-box !important;
   }
 
-  /* If your publication cards use grids/flex */
-  .page__content .grid,
-  .page__content .cards,
-  .page__content .card-grid {
+  .pub-hero h1 {
+    font-size: clamp(1.8rem, 8vw, 2.5rem) !important;
+    line-height: 1.1 !important;
+  }
+
+  /* Statistics */
+  .pub-stats {
+    width: 100% !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 10px !important;
+  }
+
+  .pub-stat {
+    min-width: 0 !important;
+    padding: 15px 8px !important;
+  }
+
+  /* Search + filters */
+  .pub-controls {
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .pub-search {
+    width: 100% !important;
+    flex: 1 1 100% !important;
+  }
+
+  .pub-filters {
+    width: 100% !important;
+  }
+
+  /* Publication sections/cards */
+  .pub-section,
+  .pub-grid,
+  .pub-card {
     width: 100% !important;
     max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .pub-card {
+    padding: 18px 16px !important;
+  }
+
+  .pub-card-top {
+    display: block !important;
+  }
+
+  .pub-badge {
+    margin-top: 8px !important;
+  }
+
+  /* Prevent long titles/authors/links from widening page */
+  .pub-title,
+  .pub-authors,
+  .pub-venue,
+  .pub-meta,
+  .pub-button {
+    overflow-wrap: anywhere;
   }
 }
-</style>
 
-<style>
-@media screen and (max-width: 1023px) {
-  .page__content .card {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+
+/* Very small phones */
+@media screen and (max-width: 480px) {
+
+  .pub-stats {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .pub-stat-number {
+    font-size: 24px !important;
+  }
+
+  .pub-stat-label {
+    font-size: 11px !important;
+  }
+
+  .pub-actions {
+    gap: 6px !important;
   }
 }
 </style>
