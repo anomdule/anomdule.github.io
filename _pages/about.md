@@ -17,5 +17,48 @@ Before joining Penn State, I worked at the Center for Global Sustainability at t
 
 📄 [**View my CV →**](/files/Anom_AMD_CV_3.pdf){:target="_blank"}
 
-
 <style>
+/* ==========================================================
+   ABOUT PAGE ONLY — USE FULL RIGHT-SIDE WIDTH
+   ========================================================== */
+
+@media screen and (min-width: 1024px) {
+
+  /* Expand the About page itself */
+  .page {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+  }
+
+  /* Expand all inner About-page containers */
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* Let About-page text use all available width */
+  .page__content p {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  /* Remove hidden width caps on direct wrappers */
+  .page__content > div,
+  .page__content > section {
+    width: 100% !important;
+    max-width: none !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    box-sizing: border-box;
+  }
+
+}
+</style>
