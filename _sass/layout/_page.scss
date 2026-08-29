@@ -546,3 +546,162 @@
     overflow-wrap: anywhere;
   }
 }
+
+
+/* ==========================================================================
+   RESPONSIVE LAPTOP / DESKTOP LAYOUT
+   Keeps sidebar and content completely separate
+   ========================================================================== */
+
+@media screen and (min-width: 1024px) {
+
+  /* ----------------------------------------------------------
+     TWO-COLUMN MASTER LAYOUT
+     ---------------------------------------------------------- */
+
+  #main {
+    display: grid !important;
+
+    /* Left side adapts between 220px and 280px.
+       Right side takes everything remaining. */
+    grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+
+    column-gap: 40px;
+
+    width: 100%;
+    max-width: 1400px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-left: 24px;
+    padding-right: 24px;
+
+    box-sizing: border-box;
+  }
+
+
+  /* ----------------------------------------------------------
+     LEFT PROFILE SIDEBAR
+     ---------------------------------------------------------- */
+
+  .sidebar {
+    grid-column: 1;
+
+    /* VERY IMPORTANT:
+       stop using the old fixed positioning */
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 280px !important;
+
+    height: auto !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    overflow: visible !important;
+  }
+
+
+  /* ----------------------------------------------------------
+     PROFILE PHOTO
+     ---------------------------------------------------------- */
+
+  .author__avatar {
+    display: block !important;
+
+    width: 100% !important;
+    max-width: 260px !important;
+
+    margin: 0 0 18px 0;
+  }
+
+  .author__avatar img {
+    display: block;
+
+    width: 100% !important;
+    max-width: 260px !important;
+
+    height: auto !important;
+
+    object-fit: cover;
+
+    border-radius: 6px;
+  }
+
+
+  /* ----------------------------------------------------------
+     RIGHT MAIN CONTENT
+     ---------------------------------------------------------- */
+
+  .page {
+    grid-column: 2;
+
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    /* Removes all previous 340px / 520px offsets */
+    margin: 0 !important;
+
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    /* Critical for CSS Grid:
+       prevents wide content from forcing overlap */
+    min-width: 0;
+  }
+
+
+  .page__inner-wrap,
+  .page__content,
+  .page__meta,
+  .page__share {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    min-width: 0;
+  }
+
+
+  /* ----------------------------------------------------------
+     ARCHIVE PAGES
+     Publications / Talks / etc.
+     ---------------------------------------------------------- */
+
+  .archive {
+    grid-column: 2;
+
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    min-width: 0;
+  }
+
+
+  /* ----------------------------------------------------------
+     SAFETY: don't let large elements stretch the page
+     ---------------------------------------------------------- */
+
+  .page img,
+  .archive img,
+  .page video,
+  .archive video,
+  .page iframe,
+  .archive iframe {
+    max-width: 100%;
+    height: auto;
+  }
+
+}
