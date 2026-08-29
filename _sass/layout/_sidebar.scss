@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -17,16 +17,28 @@
     margin-top: 1em;
   }
 
+  /*
+     DESKTOP SIDEBAR
+     Fixed 300px profile column
+  */
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
+    width: 300px;
+    max-width: 300px;
+
+    height: 100vh;
+    overflow-y: auto;
+
     padding-top: $masthead-height;
+    padding-right: 25px;
   }
 
-@include breakpoint($large) {
-  @include span(5 of 12);
+  @include breakpoint($large) {
+    width: 300px;
+    max-width: 300px;
+
     opacity: 1;
+
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
@@ -35,21 +47,28 @@
     }
   }
 
-@include breakpoint($x-large) {
-  max-width: none;
-  padding-right: 30px;
-}
+  @include breakpoint($x-large) {
+    width: 300px;
+    max-width: 300px;
+    padding-right: 25px;
+  }
 
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: $type-size-5;
   }
 
-  p, li {
+  p,
+  li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
@@ -59,6 +78,11 @@
     width: 100%;
   }
 }
+
+
+/*
+   Right sidebar
+   ========================================================================== */
 
 .sidebar__right {
   margin-bottom: 1em;
@@ -76,50 +100,75 @@
   }
 }
 
-/*
-   Author profile and links
+
+/* ==========================================================================
+   AUTHOR PROFILE
    ========================================================================== */
 
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+
+    width: 100%;
+    max-width: 280px;
+
     height: auto;
+
+    margin-bottom: 18px;
   }
 
- img {
-  width: 100%;
-  max-width: 420px;
-  height: auto;
-  border-radius: 8px;
+  img {
+    width: 100%;
+    max-width: 280px;
 
-  @include breakpoint($large) {
-    padding: 0;
-    border: 1px solid var(--global-border-color);
+    height: 300px;
+
+    /*
+       Makes photo rectangular and crops cleanly
+    */
+    object-fit: cover;
+    object-position: center;
+
+    /*
+       Slightly rounded rectangle rather than circle
+    */
+    border-radius: 6px;
+
+    @include breakpoint($large) {
+      padding: 0;
+      border: 1px solid var(--global-border-color);
+    }
   }
 }
-}
+
+
+/* ==========================================================================
+   AUTHOR TEXT
+   ========================================================================== */
 
 .author__content {
   display: table-cell;
   vertical-align: top;
+
   padding-left: 15px;
   padding-right: 25px;
+
   line-height: 1;
 
   @include breakpoint($large) {
     display: block;
+
     width: 100%;
+
     padding-left: 0;
     padding-right: 0;
   }
 }
+
 
 .author__name {
   margin: 0;
@@ -129,17 +178,22 @@
     margin-bottom: 10px;
   }
 }
+
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
 }
 
+
 .sidebar .author__desktop {
   display: none;
+
   @media screen and (min-width: 1024px) {
     display: block;
   }
 }
+
 
 .author__pronouns {
   margin: 0;
@@ -150,6 +204,7 @@
   }
 }
 
+
 .author__bio {
   margin: 0;
 
@@ -159,16 +214,24 @@
   }
 }
 
+
+/* ==========================================================================
+   AUTHOR LINKS
+   ========================================================================== */
+
 .author__urls-wrapper {
   position: relative;
+
   display: table-cell;
   vertical-align: middle;
+
   font-family: $sans-serif;
+
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
+
     a {
       margin-bottom: 0;
     }
@@ -187,40 +250,66 @@
   }
 }
 
+
 .author__urls {
   display: none;
+
   position: absolute;
   right: 0;
+
   margin-top: 15px;
   padding: 10px;
+
   list-style-type: none;
+
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
+
   background: var(--global-bg-color);
+
   z-index: -1;
+
   box-shadow: 0 0 10px rgba(#000, 0.25);
+
   cursor: default;
 
+
+  /*
+     Desktop
+  */
   @include breakpoint($large) {
     display: block;
+
     position: relative;
+
     margin: 0;
     padding: 0;
+
     border: 0;
+
     background: transparent;
+
     box-shadow: none;
   }
 
+
   &:before {
     display: block;
+
     content: "";
+
     position: absolute;
+
     top: -11px;
     left: calc(50% - 10px);
+
     width: 0;
+
     border-style: solid;
     border-width: 0 10px 10px;
+
     border-color: var(--global-border-color) transparent;
+
     z-index: 0;
 
     @include breakpoint($large) {
@@ -228,16 +317,24 @@
     }
   }
 
+
   &:after {
     display: block;
+
     content: "";
+
     position: absolute;
+
     top: -10px;
     left: calc(50% - 10px);
+
     width: 0;
+
     border-style: solid;
     border-width: 0 10px 10px;
+
     border-color: #fff transparent;
+
     z-index: 1;
 
     @include breakpoint($large) {
@@ -245,18 +342,25 @@
     }
   }
 
+
   li {
     white-space: nowrap;
   }
 
+
   a {
     display: block;
+
     margin-bottom: 5px;
+
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
+
     color: inherit;
+
     font-size: $type-size-5;
+
     text-decoration: none;
 
     &:hover {
@@ -265,31 +369,35 @@
   }
 }
 
-/* =========================================================
-   CUSTOM WIDE PROFILE SIDEBAR
-   ========================================================= */
 
-@media screen and (min-width: 1024px) {
+/* ==========================================================================
+   MOBILE
+   ========================================================================== */
+
+/*
+   On phones/tablets we return to the normal stacked layout.
+*/
+
+@media screen and (max-width: 1023px) {
 
   .sidebar {
-    width: 38%;
-    max-width: 520px;
-    padding-right: 35px;
-  }
+    position: relative;
 
-  .author__avatar {
     width: 100%;
+    max-width: none;
+
+    height: auto;
+
+    padding-right: 0;
   }
 
   .author__avatar img {
     width: 100%;
-    max-width: 100%;
-    height: auto;
+    max-width: 160px;
+    height: 160px;
 
-    /* rectangular photo */
-    border-radius: 8px;
-
-    padding: 0;
     object-fit: cover;
+
+    border-radius: 6px;
   }
 }
