@@ -24,8 +24,8 @@
     padding-top: $masthead-height;
   }
 
-  @include breakpoint($large) {
-    @include span(2 of 12);
+@include breakpoint($large) {
+  @include span(5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -35,10 +35,10 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
-    padding-right: 0;
-  }
+@include breakpoint($x-large) {
+  max-width: none;
+  padding-right: 30px;
+}
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
@@ -93,15 +93,17 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
+ img {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  border-radius: 8px;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+  @include breakpoint($large) {
+    padding: 0;
+    border: 1px solid var(--global-border-color);
   }
+}
 }
 
 .author__content {
