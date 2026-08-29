@@ -19,10 +19,10 @@
 .page {
   @include breakpoint($large) {
     float: none;
-    width: auto;
-    margin-left: 30%;
-    padding-left: 25px;
-    padding-right: 20px;
+    width: calc(100% - 520px);
+    margin-left: 520px;
+    padding-left: 40px;
+    padding-right: 30px;
   }
 
   .page__inner-wrap {
