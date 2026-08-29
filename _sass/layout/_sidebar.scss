@@ -264,3 +264,32 @@
     }
   }
 }
+
+/* =========================================================
+   CUSTOM WIDE PROFILE SIDEBAR
+   ========================================================= */
+
+@media screen and (min-width: 1024px) {
+
+  .sidebar {
+    width: 38%;
+    max-width: 520px;
+    padding-right: 35px;
+  }
+
+  .author__avatar {
+    width: 100%;
+  }
+
+  .author__avatar img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+
+    /* rectangular photo */
+    border-radius: 8px;
+
+    padding: 0;
+    object-fit: cover;
+  }
+}
