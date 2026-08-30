@@ -399,7 +399,7 @@ During these years, I collaborated on several research projects, including a **s
 
 ---
 
-Following my engineering degree, I took **three years away from formal education** due to personal and family circumstances. During that time, I continued learning independently through **MITx** courses in **Probability, Statistics, and Microeconomics**, which helped strengthen my quantitative foundation before pursuing my M.S. in Applied Economics.
+Following my engineering degree, I qualified the **Graduate Aptitude Test in Engineering (GATE) 2018**, ranking in the **top 12% nationally**. I subsequently received offers for master’s-level study from leading **Indian Institutes of Technology (IITs), including IIT Kanpur**, although I ultimately did not pursue these opportunities due to personal reasons. I then took **three years away from formal education** due to personal and family circumstances. During that time, I continued learning independently through **MITx** courses in **Probability, Statistics, and Microeconomics**, which helped strengthen my quantitative foundation before pursuing my M.S. in Applied Economics.
 
 ---
 
