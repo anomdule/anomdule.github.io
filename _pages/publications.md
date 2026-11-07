@@ -384,7 +384,7 @@ author_profile: true
 <div class="pub-page">
 
   <header class="pub-hero">
-    <h1>Publications & Work In Progess</h1>
+    <h1>Publications &amp; Work in Progress</h1>
     <p>
     </p>
   </header>
@@ -547,6 +547,10 @@ author_profile: true
         </p>
 
         <div class="pub-actions">
+          <a class="pub-button" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005298" target="_blank" rel="noopener noreferrer">
+            🔗 View paper
+          </a>
+
           <button
             class="pub-button pub-copy"
             type="button"
@@ -589,6 +593,10 @@ author_profile: true
         </p>
 
         <div class="pub-actions">
+          <a class="pub-button" href="https://cgs.umd.edu/sites/default/files/2024-09/Version%208_20240904_Understanding%20Coal%20Mine%20Methane%20Sources%20and%20Mitigation%20Opportunities%20in%20Shanxi%20Province_JB_CX-edits.pdf" target="_blank" rel="noopener noreferrer">
+            📄 View policy brief (PDF)
+          </a>
+
           <button
             class="pub-button pub-copy"
             type="button"
@@ -670,6 +678,10 @@ author_profile: true
         </p>
 
         <div class="pub-actions">
+          <a class="pub-button" href="https://cgs-database.org/methane/" target="_blank" rel="noopener noreferrer">
+            🔗 Visit G-MAST
+          </a>
+
           <button
             class="pub-button pub-copy"
             type="button"
