@@ -509,7 +509,7 @@ author_profile: true
             target="_blank"
             rel="noopener"
           >
-            🔗 View DOI
+            🔗 View 
           </a>
 
           <button
@@ -548,7 +548,7 @@ author_profile: true
 
         <div class="pub-actions">
           <a class="pub-button" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005298" target="_blank" rel="noopener noreferrer">
-            🔗 View paper
+            🔗 View
           </a>
 
           <button
@@ -594,7 +594,7 @@ author_profile: true
 
         <div class="pub-actions">
           <a class="pub-button" href="https://cgs.umd.edu/sites/default/files/2024-09/Version%208_20240904_Understanding%20Coal%20Mine%20Methane%20Sources%20and%20Mitigation%20Opportunities%20in%20Shanxi%20Province_JB_CX-edits.pdf" target="_blank" rel="noopener noreferrer">
-            📄 View policy brief (PDF)
+            📄 View
           </a>
 
           <button
